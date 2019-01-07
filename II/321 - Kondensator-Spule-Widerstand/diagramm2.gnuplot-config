@@ -1,0 +1,19 @@
+set terminal epslatex size 15cm, 9cm
+set output "diagramm2.tex"
+
+set title 'Spannungsamplitude CR-Glied'
+
+set xlabel '$f \ [kHz]$'
+set ylabel '$U_a \ [V]$'
+
+set yr [0.0:8.0]
+
+set format x '%.2f'
+set format y '%.2f'
+
+set logscale x
+
+plot "rc-glied-f-u-phi.gnuplot-data" \
+	using 1:(($4 != 0)?($4):(-1)):6 \
+	title 'Messwerte' \
+	with yerrorbars pt 13 ps 0.8

@@ -1,0 +1,26 @@
+set terminal epslatex size 15cm,12cm
+set output "1-rechteck.tex"
+
+set multiplot layout 2,1 title "Rechteckspannung mit $f=100Hz$"
+
+
+set title 'Zeitverlauf'
+set xl '$t \ [s]$'
+set yl '$U \ [V]$'
+
+set key off
+
+plot 'rechteck-zeitverlauf.lvm' \
+	using 1:2 \
+	with linespoints pt 13 ps 0.6 \
+	title 'Messwerte'
+
+
+set title 'Frequenzspektrum'
+set xl '$f \ [Hz]$'
+set yl '$F$'
+
+plot 'rechteck-spektrum.lvm' \
+	using 1:2 \
+	with linespoints pt 13 ps 0.6 \
+	title 'Messwerte'

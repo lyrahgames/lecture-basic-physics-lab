@@ -1,0 +1,37 @@
+set terminal epslatex size 15cm,9cm
+set output "TA-TB-x-fein-p.tex"
+
+set title 'Vermessung positiver Schnittpunkt von $T_A(x)$ und $T_B(x)$'
+set xl '$x \ [mm]$'
+set yl '$T \ [ms]$'
+
+set format x '%.0f'
+set format y '%.0f'
+
+set xr [154:161]
+set yr [1975:1983]
+
+f(x) = a*x + b
+g(x) = c*x + d
+fit f(x) 'TA-TB-x-fein-p.gnuplot-data' using 1:6 via a,b
+fit g(x) 'TA-TB-x-fein-p.gnuplot-data' using 1:7 via c,d
+
+plot 'TA-TB-x-fein-p.gnuplot-data' \
+	using 1:6:8 \
+	title 'Messwerte $T_A(x)$' \
+	with yerrorbars pt 13 ps 0.8 \
+	, \
+	'' using 1:7:8 \
+	title 'Messwerte $T_B(x)$' \
+	with yerrorbars pt 15 ps 0.8 \
+	, \
+	f(x) title '$f(x) = ax+b$' \
+	, \
+	g(x) title '$g(x) = cx+d$'
+
+
+#a               = 0.0634286        +/- 0.01091      (17.2%)
+#b               = 1969.17          +/- 1.718        (0.08724%)
+
+#c               = 0.735429         +/- 0.1484       (20.18%)
+#d               = 1862.32          +/- 23.38        (1.255%)

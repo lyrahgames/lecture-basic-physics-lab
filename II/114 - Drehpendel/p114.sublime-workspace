@@ -1,0 +1,641 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"B",
+				"BLOCK_DIM"
+			],
+			[
+				"Bl",
+				"BLOCK_DIM"
+			],
+			[
+				"d_",
+				"d_c"
+			],
+			[
+				"cuda",
+				"cudamem	cudaMemcpy(,,,)"
+			],
+			[
+				"d",
+				"d_y"
+			],
+			[
+				"so",
+				"sizeof"
+			],
+			[
+				"blo",
+				"blockIdx"
+			],
+			[
+				"ca",
+				"cache"
+			],
+			[
+				"bloc",
+				"blockDim"
+			],
+			[
+				"thread",
+				"threadIdx"
+			],
+			[
+				"D",
+				"DataBlock"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"cud",
+				"cudamal	cudaMalloc((void**),);"
+			],
+			[
+				"ma",
+				"mag"
+			],
+			[
+				"COM",
+				"COMPLEX_IMAG"
+			],
+			[
+				"m",
+				"mpl"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "steinsatz-s-T.gnuplot-data",
+			"settings":
+			{
+				"buffer_size": 153,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "steinsatz-s-T.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 580,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dmoment-phi-m.gnuplot-data",
+			"settings":
+			{
+				"buffer_size": 607,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dmoment-phi-m.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 599,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.tex",
+			"settings":
+			{
+				"buffer_size": 2164,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main2.tex",
+			"settings":
+			{
+				"buffer_size": 2164,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 243.0,
+		"selected_items":
+		[
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"ssc",
+				"Set Syntax: C++"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"close ",
+				"Project: Close"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"dic",
+				"Dictionaries: Set Language"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"print",
+				"Print Entire File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"settin",
+				"Preferences: Settings - Default"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"proje",
+				"Project: Close"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 584.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/lyrahgames/.cache/.fr-9p7wKm/chapter05/ripple.cu",
+		"/home/lyrahgames/cloud/Dropbox/pro/saxpy/common/book.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/julia-set/common/gl_helper.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/julia-set/common/cpu_bitmap.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/julia-set/julia-set-cpu/main.cpp",
+		"/home/lyrahgames/cloud/Dropbox/pro/julia-set/julia-set-cpu/julia-set-cpu.sublime-project",
+		"/home/lyrahgames/cloud/Dropbox/pro/julia-set/common/book.h",
+		"/home/lyrahgames/cloud/Dropbox/tools/sublime-text/sublime-text-2.0.2/backup-package-list.txt",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/vec3f.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/btree.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/pref.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/morton.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/morton.cpp",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/vec3f.cpp",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-6.0_Samples/0_Simple/vectorAdd/vectorAdd.cu",
+		"/home/lyrahgames/pro/vrGen/cudaBench/src/main.cpp",
+		"/home/lyrahgames/pro/vrGen/cudaBench/src/cudaRT.cu",
+		"/home/lyrahgames/pro/vrGen/cudaBench/src/Camera.cpp",
+		"/home/lyrahgames/tmp/downloads/Unigine_Heaven-4.0.run",
+		"/etc/X11/Xsession.options",
+		"/etc/X11/xorg.conf",
+		"/home/lyrahgames/pro/vrGen/cudaBench/pro-files/camera_path/dragon.cam",
+		"/home/lyrahgames/.bashrc",
+		"/home/lyrahgames/.bash",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-6.0_Samples/0_Simple/vectorAdd/CMakeLists.txt",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-6.0_Samples/License.txt",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-6.0_Samples/Makefile",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Package Control.sublime-settings",
+		"/home/lyrahgames/pro/stl_viewer/src/Viewer.cpp",
+		"/home/lyrahgames/pro/stl_viewer/src/Universal.h",
+		"/home/lyrahgames/pro/stl_viewer/src/Camera.h",
+		"/home/lyrahgames/pro/stl_viewer/src/Dbgout.cpp",
+		"/home/lyrahgames/tools/qt/qt5.1.1/bin/qt.conf",
+		"/home/lyrahgames/pro/stl_viewer/src/Dbgout.h",
+		"/home/lyrahgames/pro/stl_viewer/src/MathUtil.h",
+		"/home/lyrahgames/pro/stl_viewer/src/Viewer.h",
+		"/home/lyrahgames/pro/stl_viewer/src/main.cpp",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/lyrahgames/tmp/sublime_test/Hello.txt",
+		"/home/lyrahgames/tmp/sublime_test/tmp2.txt",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/lyrahgames/tmp/sublime_test/tmp/tmp.txt",
+		"/home/lyrahgames/tmp/sublime_test/tmp/test2.txt",
+		"/home/lyrahgames/tmp/sublime_test/tmp/test.tex",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
+		"/home/lyrahgames/tmp/sublime_test/tmp/main.cpp",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/SublimePrint.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/SublimePrint/SublimePrint.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/SublimePrint/README.md",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/lyrahgames/tmp/sublime_test/test.txt",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/C++ Snippets/README.md",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/openinbrowser.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/AdvancedNewFile/README.md",
+		"/home/lyrahgames/tmp/sublime_test/test.sublime-workspace",
+		"/home/lyrahgames/tmp/sublime_test/test.sublime-project",
+		"/home/lyrahgames/pro/stl_viewer/pro-files/linux/config.pro",
+		"/home/lyrahgames/tools/qt/qt5.1/mkspecs/features/spec_pre.prf",
+		"/home/lyrahgames/.profile",
+		"/home/lyrahgames/tools/compiler/intel_cce_14/composer_xe_2013_sp1.0.080/bin/compilervars.sh",
+		"/home/lyrahgames/tools/compiler/intel_cce_14/bin/compilervars.sh"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"4",
+			"cacheIdx",
+			"a",
+			"size",
+			"int",
+			"imagesize",
+			"__device__",
+			"SCALE",
+			"$HOME/tools",
+			"/home/toolsLinux",
+			"begin",
+			"htt",
+			"Linux",
+			"home"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "steinsatz-s-T.gnuplot-data",
+					"settings":
+					{
+						"buffer_size": 153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153,
+								153
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "steinsatz-s-T.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 580,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								580,
+								580
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/User/gnuplot/gnuplot.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "dmoment-phi-m.gnuplot-data",
+					"settings":
+					{
+						"buffer_size": 607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								607,
+								607
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "dmoment-phi-m.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 599,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								599,
+								599
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/User/gnuplot/gnuplot.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "main.tex",
+					"settings":
+					{
+						"buffer_size": 2164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2125,
+								2125
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 386.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "main2.tex",
+					"settings":
+					{
+						"buffer_size": 2164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2126,
+								2126
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 512.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 118.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"boo",
+				"common/book.h"
+			],
+			[
+				"",
+				"julia-set-cpu.sublime-project"
+			],
+			[
+				"cuda",
+				"src/cudaRT.cu"
+			],
+			[
+				"mai",
+				"src/main.cpp"
+			],
+			[
+				"tm",
+				"tmp/tmp.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/lyrahgames/cloud/Dropbox/pro/julia-set/julia-set-gpu/julia-set-gpu.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true
+}

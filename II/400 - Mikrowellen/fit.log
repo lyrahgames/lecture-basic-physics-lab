@@ -1,0 +1,1496 @@
+
+
+*******************************************************************************
+Thu May  8 20:35:12 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using 1:2
+        format = x:z
+        #datapoints = 15
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 27.0479           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.15987e-05
+
+initial set of free parameter values
+
+a               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.78645
+rel. change during last iteration : -2.4517e-08
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.357217
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.127604
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 111886           +/- 7952         (7.107%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Thu May  8 20:36:50 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:0):2
+        format = x:z
+        #datapoints = 15
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Thu May  8 20:37:20 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:$0):2
+        format = x:z
+        #datapoints = 15
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Thu May  8 20:37:21 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:$0):2
+        format = x:z
+        #datapoints = 15
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Thu May  8 20:37:26 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:$1):2
+        format = x:z
+        #datapoints = 15
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 27.0479           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.15987e-05
+
+initial set of free parameter values
+
+a               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.78645
+rel. change during last iteration : -2.4517e-08
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.357217
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.127604
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 111886           +/- 7952         (7.107%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Thu May  8 20:37:49 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:300):2
+        format = x:z
+        #datapoints = 15
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 27.0481           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 8.30877e-06
+
+initial set of free parameter values
+
+a               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 0.40721
+rel. change during last iteration : -1.1343e-07
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.170547
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0290864
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 160396           +/- 5300         (3.304%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Thu May  8 20:38:09 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:300):2
+        format = x:z
+        #datapoints = 15
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 27.0481           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 8.30877e-06
+
+initial set of free parameter values
+
+a               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 0.40721
+rel. change during last iteration : -1.1343e-07
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.170547
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0290864
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 160396           +/- 5300         (3.304%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Thu May  8 20:38:40 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:700):2
+        format = x:z
+        #datapoints = 15
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 27.0483           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.61725e-06
+
+initial set of free parameter values
+
+a               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 11.065
+rel. change during last iteration : -2.50444e-09
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.889022
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.79036
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 223566           +/- 4.971e+04    (22.24%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Thu May  8 20:39:08 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:700):2
+        format = x:z
+        #datapoints = 15
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 27.0483           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.61725e-06
+
+initial set of free parameter values
+
+a               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 11.065
+rel. change during last iteration : -2.50444e-09
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.889022
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.79036
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 223566           +/- 4.971e+04    (22.24%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Thu May  8 20:39:24 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:500):2
+        format = x:z
+        #datapoints = 15
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 27.0482           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 5.10422e-06
+
+initial set of free parameter values
+
+a               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 5.42426
+rel. change during last iteration : -6.91183e-09
+
+degrees of freedom    (FIT_NDF)                        : 14
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.622453
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.387447
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 235231           +/- 3.149e+04    (13.39%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Thu May  8 20:42:14 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 5.7232e-06
+
+initial set of free parameter values
+
+a               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 0.330406
+rel. change during last iteration : -3.18793e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.203226
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0413007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 170312           +/- 1.184e+04    (6.95%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Thu May  8 20:44:13 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 20:45:08 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 20:50:00 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 20:50:33 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 20:50:42 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 20:51:04 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 20:53:39 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 20:54:17 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 20:54:25 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 20:55:52 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 20:56:06 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 20:57:11 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 20:57:35 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 20:58:12 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 20:58:35 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 20:59:04 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 21:01:12 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 21:02:03 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 21:02:20 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 21:03:24 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 21:03:38 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 21:03:57 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 21:04:22 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 
+
+
+*******************************************************************************
+Thu May  8 21:04:46 2014
+
+
+FIT:    data read from 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2
+        format = x:z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.8812            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 4.0698e-06
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00275388
+rel. change during last iteration : -1.00378e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0198346
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000393411
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 515553           +/- 2.289e+04    (4.44%)
+b               = -271.072         +/- 14.68        (5.416%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.989  1.000 

@@ -1,0 +1,4333 @@
+
+
+*******************************************************************************
+Thu May 29 16:42:24 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17536e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.852876
+rel. change during last iteration : -4.80644e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.326511
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.10661
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:43:01 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17536e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.852876
+rel. change during last iteration : -4.80644e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.326511
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.10661
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:44:33 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17536e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.852876
+rel. change during last iteration : -4.80644e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.326511
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.10661
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:44:33 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17003e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 71.2271
+rel. change during last iteration : -5.62159e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.98386
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.90339
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 4.992e-05    (4.288%)
+e               = 0.0136759        +/- 0.006006     (43.92%)
+f               = 1950.03          +/- 1.437        (0.07367%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      
+d               1.000 
+e              -0.000  1.000 
+f              -0.780  0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:45:07 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17536e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.852876
+rel. change during last iteration : -4.80644e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.326511
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.10661
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:45:07 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17003e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 71.2271
+rel. change during last iteration : -5.62159e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.98386
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.90339
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 4.992e-05    (4.288%)
+e               = 0.0136759        +/- 0.006006     (43.92%)
+f               = 1950.03          +/- 1.437        (0.07367%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      
+d               1.000 
+e              -0.000  1.000 
+f              -0.780  0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:45:30 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17536e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.852876
+rel. change during last iteration : -4.80644e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.326511
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.10661
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:45:30 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17003e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 71.2271
+rel. change during last iteration : -5.62159e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.98386
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.90339
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 4.992e-05    (4.288%)
+e               = 0.0136759        +/- 0.006006     (43.92%)
+f               = 1950.03          +/- 1.437        (0.07367%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      
+d               1.000 
+e              -0.000  1.000 
+f              -0.780  0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:45:45 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17536e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.852876
+rel. change during last iteration : -4.80644e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.326511
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.10661
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:45:45 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17003e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 71.2271
+rel. change during last iteration : -5.62159e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.98386
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.90339
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 4.992e-05    (4.288%)
+e               = 0.0136759        +/- 0.006006     (43.92%)
+f               = 1950.03          +/- 1.437        (0.07367%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      
+d               1.000 
+e              -0.000  1.000 
+f              -0.780  0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:46:02 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17536e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.852876
+rel. change during last iteration : -4.80644e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.326511
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.10661
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:46:02 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17003e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 71.2271
+rel. change during last iteration : -5.62159e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.98386
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.90339
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 4.992e-05    (4.288%)
+e               = 0.0136759        +/- 0.006006     (43.92%)
+f               = 1950.03          +/- 1.437        (0.07367%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      
+d               1.000 
+e              -0.000  1.000 
+f              -0.780  0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:47:02 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17536e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.852876
+rel. change during last iteration : -4.80644e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.326511
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.10661
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:47:02 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17003e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 71.2271
+rel. change during last iteration : -5.62159e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.98386
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.90339
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 4.992e-05    (4.288%)
+e               = 0.0136759        +/- 0.006006     (43.92%)
+f               = 1950.03          +/- 1.437        (0.07367%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      
+d               1.000 
+e              -0.000  1.000 
+f              -0.780  0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:47:37 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17536e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.852876
+rel. change during last iteration : -4.80644e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.326511
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.10661
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:47:37 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17004e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 14391.3
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+n               = 1
+
+After 101 iterations the fit converged.
+final sum of squares of residuals : 71.2271
+rel. change during last iteration : -8.2098e-09
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.18988
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.1753
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 5.684e-05    (4.883%)
+e               = 0.146997         +/- 1.311e+09    (8.92e+11%)
+f               = 1954.63          +/- 8.275e+10    (4.234e+09%)
+n               = 57.2638          +/- 5.632e+11    (9.835e+11%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      n      
+d               1.000 
+e               0.344  1.000 
+f               0.344  1.000  1.000 
+n               0.344  1.000  1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:48:07 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17536e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.852876
+rel. change during last iteration : -4.80644e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.326511
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.10661
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:48:07 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17004e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 14391.3
+
+initial set of free parameter values
+
+n               = 1
+d               = 1
+e               = 1
+f               = 1
+
+After 101 iterations the fit converged.
+final sum of squares of residuals : 71.2271
+rel. change during last iteration : -8.35886e-09
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.18988
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.1753
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+n               = 57.2681          +/- 4.438e+11    (7.749e+11%)
+d               = 0.00116409       +/- 5.393e-05    (4.633%)
+e               = 0.147006         +/- 1.033e+09    (7.029e+11%)
+f               = 1954.63          +/- 6.521e+10    (3.336e+09%)
+
+
+correlation matrix of the fit parameters:
+
+               n      d      e      f      
+n               1.000 
+d              -0.144  1.000 
+e               1.000 -0.144  1.000 
+f               1.000 -0.144  1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:49:16 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17536e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.852876
+rel. change during last iteration : -4.80644e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.326511
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.10661
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:49:16 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17004e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 14391.3
+
+initial set of free parameter values
+
+n               = 1
+d               = 1
+e               = 1
+f               = 1
+
+After 101 iterations the fit converged.
+final sum of squares of residuals : 71.2271
+rel. change during last iteration : -8.35886e-09
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.18988
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.1753
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+n               = 57.2681          +/- 4.438e+11    (7.749e+11%)
+d               = 0.00116409       +/- 5.393e-05    (4.633%)
+e               = 0.147006         +/- 1.033e+09    (7.029e+11%)
+f               = 1954.63          +/- 6.521e+10    (3.336e+09%)
+
+
+correlation matrix of the fit parameters:
+
+               n      d      e      f      
+n               1.000 
+d              -0.144  1.000 
+e               1.000 -0.144  1.000 
+f               1.000 -0.144  1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:49:31 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17536e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.852876
+rel. change during last iteration : -4.80644e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.326511
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.10661
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:49:31 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17004e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 14391.3
+
+initial set of free parameter values
+
+n               = 1
+d               = 1
+e               = 1
+f               = 1
+
+After 101 iterations the fit converged.
+final sum of squares of residuals : 71.2271
+rel. change during last iteration : -8.35886e-09
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.18988
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.1753
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+n               = 57.2681          +/- 4.438e+11    (7.749e+11%)
+d               = 0.00116409       +/- 5.393e-05    (4.633%)
+e               = 0.147006         +/- 1.033e+09    (7.029e+11%)
+f               = 1954.63          +/- 6.521e+10    (3.336e+09%)
+
+
+correlation matrix of the fit parameters:
+
+               n      d      e      f      
+n               1.000 
+d              -0.144  1.000 
+e               1.000 -0.144  1.000 
+f               1.000 -0.144  1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:50:38 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17536e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.852876
+rel. change during last iteration : -4.80644e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.326511
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.10661
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:50:38 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17003e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 71.2271
+rel. change during last iteration : -5.62159e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.98386
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.90339
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 4.992e-05    (4.288%)
+e               = 0.0136759        +/- 0.006006     (43.92%)
+f               = 1950.03          +/- 1.437        (0.07367%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      
+d               1.000 
+e              -0.000  1.000 
+f              -0.780  0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:51:56 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17536e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.852876
+rel. change during last iteration : -4.80644e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.326511
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.10661
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:51:56 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17003e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 71.2271
+rel. change during last iteration : -5.62159e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.98386
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.90339
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 4.992e-05    (4.288%)
+e               = 0.0136759        +/- 0.006006     (43.92%)
+f               = 1950.03          +/- 1.437        (0.07367%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      
+d               1.000 
+e              -0.000  1.000 
+f              -0.780  0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:58:03 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6:(8)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.2774e+08        delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 2076.93
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.0133262
+rel. change during last iteration : -4.80644e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0408139
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00166577
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:58:03 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 11
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.17003e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16615.4
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 71.2271
+rel. change during last iteration : -5.62159e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.98386
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.90339
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 4.992e-05    (4.288%)
+e               = 0.0136759        +/- 0.006006     (43.92%)
+f               = 1950.03          +/- 1.437        (0.07367%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      
+d               1.000 
+e              -0.000  1.000 
+f              -0.780  0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:58:15 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6:(8)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.2774e+08        delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 2076.93
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.0133262
+rel. change during last iteration : -4.80644e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0408139
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00166577
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 16:58:15 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7:(8)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.27657e+08       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 2076.93
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 1.11292
+rel. change during last iteration : -5.62159e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.372982
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.139116
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 4.992e-05    (4.288%)
+e               = 0.0136759        +/- 0.006006     (43.92%)
+f               = 1950.03          +/- 1.437        (0.07367%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      
+d               1.000 
+e              -0.000  1.000 
+f              -0.780  0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:01:29 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6:(8)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.2774e+08        delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 2076.93
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.0133262
+rel. change during last iteration : -4.80644e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0408139
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00166577
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:01:29 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7:(8)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.27657e+08       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 2076.93
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 1.11292
+rel. change during last iteration : -5.62159e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.372982
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.139116
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 4.992e-05    (4.288%)
+e               = 0.0136759        +/- 0.006006     (43.92%)
+f               = 1950.03          +/- 1.437        (0.07367%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      
+d               1.000 
+e              -0.000  1.000 
+f              -0.780  0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:03:04 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6:(20)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.04384e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 830.77
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00213219
+rel. change during last iteration : -4.80645e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0163256
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000266524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:03:04 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7:(20)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.04251e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 830.77
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.178068
+rel. change during last iteration : -5.6216e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.149193
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0222585
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 4.992e-05    (4.288%)
+e               = 0.0136759        +/- 0.006006     (43.92%)
+f               = 1950.03          +/- 1.437        (0.07367%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      
+d               1.000 
+e              -0.000  1.000 
+f              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:03:19 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6:(20)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.04384e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 830.77
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00213219
+rel. change during last iteration : -4.80645e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0163256
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000266524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:03:19 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7:(20)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.04251e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 830.77
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.178068
+rel. change during last iteration : -5.6216e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.149193
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0222585
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 4.992e-05    (4.288%)
+e               = 0.0136759        +/- 0.006006     (43.92%)
+f               = 1950.03          +/- 1.437        (0.07367%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      
+d               1.000 
+e              -0.000  1.000 
+f              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:05:14 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6:(20)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.04384e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 830.77
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00213219
+rel. change during last iteration : -4.80645e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0163256
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000266524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:05:14 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7:(20)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.04251e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 830.77
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.178068
+rel. change during last iteration : -5.6216e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.149193
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0222585
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 4.992e-05    (4.288%)
+e               = 0.0136759        +/- 0.006006     (43.92%)
+f               = 1950.03          +/- 1.437        (0.07367%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      
+d               1.000 
+e              -0.000  1.000 
+f              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:06:06 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6:(20)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.04384e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-07
+ lambda	  : 830.77
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 9 iterations the fit converged.
+final sum of squares of residuals : 0.00213219
+rel. change during last iteration : -3.05095e-15
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0163256
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000266524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b               0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:06:06 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7:(20)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.04251e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-07
+ lambda	  : 830.77
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.178068
+rel. change during last iteration : -5.6216e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.149193
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0222585
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 4.992e-05    (4.288%)
+e               = 0.0136759        +/- 0.006006     (43.92%)
+f               = 1950.03          +/- 1.437        (0.07367%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      
+d               1.000 
+e              -0.000  1.000 
+f              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:06:42 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6:(20)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.04384e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 830.77
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00213219
+rel. change during last iteration : -4.80645e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0163256
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000266524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:06:42 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7:(20)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.04251e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 830.77
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.178068
+rel. change during last iteration : -5.6216e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.149193
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0222585
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 4.992e-05    (4.288%)
+e               = 0.0136759        +/- 0.006006     (43.92%)
+f               = 1950.03          +/- 1.437        (0.07367%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      
+d               1.000 
+e              -0.000  1.000 
+f              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:07:29 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6:(20)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.04384e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-10
+ lambda	  : 830.77
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 9 iterations the fit converged.
+final sum of squares of residuals : 0.00213219
+rel. change during last iteration : -3.05095e-15
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0163256
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000266524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b               0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:07:29 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7:(20)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.04251e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-10
+ lambda	  : 830.77
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+
+After 9 iterations the fit converged.
+final sum of squares of residuals : 0.178068
+rel. change during last iteration : -2.49393e-15
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.149193
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0222585
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 4.992e-05    (4.288%)
+e               = 0.0136759        +/- 0.006006     (43.92%)
+f               = 1950.03          +/- 1.437        (0.07367%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      
+d               1.000 
+e               0.000  1.000 
+f              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:07:53 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6:(20)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.04384e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-10
+ lambda	  : 830.77
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 9 iterations the fit converged.
+final sum of squares of residuals : 0.00213219
+rel. change during last iteration : -3.05095e-15
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0163256
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000266524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b               0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:07:53 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7:(20)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.04251e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-10
+ lambda	  : 830.77
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+
+After 9 iterations the fit converged.
+final sum of squares of residuals : 0.178068
+rel. change during last iteration : -2.49393e-15
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.149193
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0222585
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 4.992e-05    (4.288%)
+e               = 0.0136759        +/- 0.006006     (43.92%)
+f               = 1950.03          +/- 1.437        (0.07367%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      
+d               1.000 
+e               0.000  1.000 
+f              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:07:59 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6:(20)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.04384e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 830.77
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00213219
+rel. change during last iteration : -4.80645e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0163256
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000266524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:07:59 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7:(20)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.04251e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 830.77
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.178068
+rel. change during last iteration : -5.6216e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.149193
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0222585
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 4.992e-05    (4.288%)
+e               = 0.0136759        +/- 0.006006     (43.92%)
+f               = 1950.03          +/- 1.437        (0.07367%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      
+d               1.000 
+e              -0.000  1.000 
+f              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:12:02 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6:(20)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.04384e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 830.77
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00213219
+rel. change during last iteration : -4.80645e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0163256
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000266524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:12:02 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7:(20)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.04251e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 830.77
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.178068
+rel. change during last iteration : -5.6216e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.149193
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0222585
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 4.992e-05    (4.288%)
+e               = 0.0136759        +/- 0.006006     (43.92%)
+f               = 1950.03          +/- 1.437        (0.07367%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      
+d               1.000 
+e              -0.000  1.000 
+f              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:12:42 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6:(20)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.04384e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 830.77
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00213219
+rel. change during last iteration : -4.80645e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0163256
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000266524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:12:42 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7:(20)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.04251e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 830.77
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.178068
+rel. change during last iteration : -5.6216e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.149193
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0222585
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 4.992e-05    (4.288%)
+e               = 0.0136759        +/- 0.006006     (43.92%)
+f               = 1950.03          +/- 1.437        (0.07367%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      
+d               1.000 
+e              -0.000  1.000 
+f              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:13:09 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:6:(20)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.04384e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 830.77
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00213219
+rel. change during last iteration : -4.80645e-07
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0163256
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000266524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000254118      +/- 5.463e-06    (2.15%)
+b               = 0.00056483       +/- 0.0006572    (116.4%)
+c               = 1973.06          +/- 0.1572       (0.007967%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.000  1.000 
+c              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:13:09 2014
+
+
+FIT:    data read from 'TA-TB-x-grob.gnuplot-data' using 1:7:(20)
+        format = x:z:s
+        #datapoints = 11
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.04251e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 830.77
+
+initial set of free parameter values
+
+d               = 1
+e               = 1
+f               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.178068
+rel. change during last iteration : -5.6216e-09
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.149193
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0222585
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+d               = 0.00116409       +/- 4.992e-05    (4.288%)
+e               = 0.0136759        +/- 0.006006     (43.92%)
+f               = 1950.03          +/- 1.437        (0.07367%)
+
+
+correlation matrix of the fit parameters:
+
+               d      e      f      
+d               1.000 
+e              -0.000  1.000 
+f              -0.780 -0.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:45:17 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-p.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Thu May 29 17:45:23 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-p.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.98889e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 111.378
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00832762
+rel. change during last iteration : -3.92435e-12
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0456279
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0020819
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0634286        +/- 0.01091      (17.2%)
+b               = 1969.17          +/- 1.718        (0.08724%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:45:23 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-p.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.98668e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 111.378
+
+initial set of free parameter values
+
+c               = 1
+d               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 1.54203
+rel. change during last iteration : -9.23005e-14
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.620893
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.385509
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 0.735429         +/- 0.1484       (20.18%)
+d               = 1862.32          +/- 23.38        (1.255%)
+
+
+correlation matrix of the fit parameters:
+
+               c      d      
+c               1.000 
+d              -1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:45:58 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-p.gnuplot-data' using 1:6
+        format = x:z
+        x range restricted to [154.000 : 161.000]
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.98889e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 111.378
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00832762
+rel. change during last iteration : -3.92435e-12
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0456279
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0020819
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0634286        +/- 0.01091      (17.2%)
+b               = 1969.17          +/- 1.718        (0.08724%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:45:58 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-p.gnuplot-data' using 1:7
+        format = x:z
+        x range restricted to [154.000 : 161.000]
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.98668e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 111.378
+
+initial set of free parameter values
+
+c               = 1
+d               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 1.54203
+rel. change during last iteration : -9.23005e-14
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.620893
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.385509
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 0.735429         +/- 0.1484       (20.18%)
+d               = 1862.32          +/- 23.38        (1.255%)
+
+
+correlation matrix of the fit parameters:
+
+               c      d      
+c               1.000 
+d              -1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:46:12 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-p.gnuplot-data' using 1:6
+        format = x:z
+        x range restricted to [154.000 : 161.000]
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.98889e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 111.378
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00832762
+rel. change during last iteration : -3.92435e-12
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0456279
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0020819
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0634286        +/- 0.01091      (17.2%)
+b               = 1969.17          +/- 1.718        (0.08724%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:46:12 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-p.gnuplot-data' using 1:7
+        format = x:z
+        x range restricted to [154.000 : 161.000]
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.98668e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 111.378
+
+initial set of free parameter values
+
+c               = 1
+d               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 1.54203
+rel. change during last iteration : -9.23005e-14
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.620893
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.385509
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 0.735429         +/- 0.1484       (20.18%)
+d               = 1862.32          +/- 23.38        (1.255%)
+
+
+correlation matrix of the fit parameters:
+
+               c      d      
+c               1.000 
+d              -1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:46:34 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-p.gnuplot-data' using 1:6
+        format = x:z
+        x range restricted to [154.000 : 161.000]
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.98889e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 111.378
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00832762
+rel. change during last iteration : -3.92435e-12
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0456279
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0020819
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0634286        +/- 0.01091      (17.2%)
+b               = 1969.17          +/- 1.718        (0.08724%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:46:34 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-p.gnuplot-data' using 1:7
+        format = x:z
+        x range restricted to [154.000 : 161.000]
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.98668e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 111.378
+
+initial set of free parameter values
+
+c               = 1
+d               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 1.54203
+rel. change during last iteration : -9.23005e-14
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.620893
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.385509
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 0.735429         +/- 0.1484       (20.18%)
+d               = 1862.32          +/- 23.38        (1.255%)
+
+
+correlation matrix of the fit parameters:
+
+               c      d      
+c               1.000 
+d              -1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:47:08 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-p.gnuplot-data' using 1:6
+        format = x:z
+        x range restricted to [154.000 : 161.000]
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.98889e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 111.378
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00832762
+rel. change during last iteration : -3.92435e-12
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0456279
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0020819
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0634286        +/- 0.01091      (17.2%)
+b               = 1969.17          +/- 1.718        (0.08724%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:47:08 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-p.gnuplot-data' using 1:7
+        format = x:z
+        x range restricted to [154.000 : 161.000]
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.98668e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 111.378
+
+initial set of free parameter values
+
+c               = 1
+d               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 1.54203
+rel. change during last iteration : -9.23005e-14
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.620893
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.385509
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 0.735429         +/- 0.1484       (20.18%)
+d               = 1862.32          +/- 23.38        (1.255%)
+
+
+correlation matrix of the fit parameters:
+
+               c      d      
+c               1.000 
+d              -1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:53:45 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-n.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28815e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 113.73
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.195296
+rel. change during last iteration : -4.74683e-13
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.255144
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0650986
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0764789       +/- 0.03385      (44.27%)
+b               = 1967.13          +/- 5.445        (0.2768%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:53:45 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-n.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28929e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 113.73
+
+initial set of free parameter values
+
+c               = 1
+d               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.260072
+rel. change during last iteration : -3.8783e-13
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.294433
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0866906
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = -0.345704        +/- 0.03907      (11.3%)
+d               = 1924.37          +/- 6.283        (0.3265%)
+
+
+correlation matrix of the fit parameters:
+
+               c      d      
+c               1.000 
+d               1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:54:39 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-n.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28815e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 113.73
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.195296
+rel. change during last iteration : -4.74683e-13
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.255144
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0650986
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0764789       +/- 0.03385      (44.27%)
+b               = 1967.13          +/- 5.445        (0.2768%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:54:39 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-n.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28929e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 113.73
+
+initial set of free parameter values
+
+c               = 1
+d               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.260072
+rel. change during last iteration : -3.8783e-13
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.294433
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0866906
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = -0.345704        +/- 0.03907      (11.3%)
+d               = 1924.37          +/- 6.283        (0.3265%)
+
+
+correlation matrix of the fit parameters:
+
+               c      d      
+c               1.000 
+d               1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:55:11 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-n.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28815e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 113.73
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.195296
+rel. change during last iteration : -4.74683e-13
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.255144
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0650986
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0764789       +/- 0.03385      (44.27%)
+b               = 1967.13          +/- 5.445        (0.2768%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:55:11 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-n.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28929e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 113.73
+
+initial set of free parameter values
+
+c               = 1
+d               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.260072
+rel. change during last iteration : -3.8783e-13
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.294433
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0866906
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = -0.345704        +/- 0.03907      (11.3%)
+d               = 1924.37          +/- 6.283        (0.3265%)
+
+
+correlation matrix of the fit parameters:
+
+               c      d      
+c               1.000 
+d               1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:55:22 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-n.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28815e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 113.73
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.195296
+rel. change during last iteration : -4.74683e-13
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.255144
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0650986
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0764789       +/- 0.03385      (44.27%)
+b               = 1967.13          +/- 5.445        (0.2768%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:55:22 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-n.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28929e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 113.73
+
+initial set of free parameter values
+
+c               = 1
+d               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.260072
+rel. change during last iteration : -3.8783e-13
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.294433
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0866906
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = -0.345704        +/- 0.03907      (11.3%)
+d               = 1924.37          +/- 6.283        (0.3265%)
+
+
+correlation matrix of the fit parameters:
+
+               c      d      
+c               1.000 
+d               1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:55:41 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-n.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28815e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 113.73
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.195296
+rel. change during last iteration : -4.74683e-13
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.255144
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0650986
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0764789       +/- 0.03385      (44.27%)
+b               = 1967.13          +/- 5.445        (0.2768%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:55:41 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-n.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28929e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 113.73
+
+initial set of free parameter values
+
+c               = 1
+d               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.260072
+rel. change during last iteration : -3.8783e-13
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.294433
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0866906
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = -0.345704        +/- 0.03907      (11.3%)
+d               = 1924.37          +/- 6.283        (0.3265%)
+
+
+correlation matrix of the fit parameters:
+
+               c      d      
+c               1.000 
+d               1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:56:18 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-n.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28815e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 113.73
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.195296
+rel. change during last iteration : -4.74683e-13
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.255144
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0650986
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0764789       +/- 0.03385      (44.27%)
+b               = 1967.13          +/- 5.445        (0.2768%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:56:18 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-n.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28929e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 113.73
+
+initial set of free parameter values
+
+c               = 1
+d               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.260072
+rel. change during last iteration : -3.8783e-13
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.294433
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0866906
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = -0.345704        +/- 0.03907      (11.3%)
+d               = 1924.37          +/- 6.283        (0.3265%)
+
+
+correlation matrix of the fit parameters:
+
+               c      d      
+c               1.000 
+d               1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:56:21 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-n.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28815e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 113.73
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.195296
+rel. change during last iteration : -4.74683e-13
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.255144
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0650986
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0764789       +/- 0.03385      (44.27%)
+b               = 1967.13          +/- 5.445        (0.2768%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:56:21 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-n.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28929e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 113.73
+
+initial set of free parameter values
+
+c               = 1
+d               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.260072
+rel. change during last iteration : -3.8783e-13
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.294433
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0866906
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = -0.345704        +/- 0.03907      (11.3%)
+d               = 1924.37          +/- 6.283        (0.3265%)
+
+
+correlation matrix of the fit parameters:
+
+               c      d      
+c               1.000 
+d               1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:56:28 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-n.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28815e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 113.73
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.195296
+rel. change during last iteration : -4.74683e-13
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.255144
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0650986
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0764789       +/- 0.03385      (44.27%)
+b               = 1967.13          +/- 5.445        (0.2768%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:56:28 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-n.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28929e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 113.73
+
+initial set of free parameter values
+
+c               = 1
+d               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.260072
+rel. change during last iteration : -3.8783e-13
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.294433
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0866906
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = -0.345704        +/- 0.03907      (11.3%)
+d               = 1924.37          +/- 6.283        (0.3265%)
+
+
+correlation matrix of the fit parameters:
+
+               c      d      
+c               1.000 
+d               1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:56:47 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-n.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28815e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 113.73
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.195296
+rel. change during last iteration : -4.74683e-13
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.255144
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0650986
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0764789       +/- 0.03385      (44.27%)
+b               = 1967.13          +/- 5.445        (0.2768%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:56:47 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-n.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28929e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 113.73
+
+initial set of free parameter values
+
+c               = 1
+d               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.260072
+rel. change during last iteration : -3.8783e-13
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.294433
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0866906
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = -0.345704        +/- 0.03907      (11.3%)
+d               = 1924.37          +/- 6.283        (0.3265%)
+
+
+correlation matrix of the fit parameters:
+
+               c      d      
+c               1.000 
+d               1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:56:58 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-n.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28815e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 113.73
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.195296
+rel. change during last iteration : -4.74683e-13
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.255144
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0650986
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0764789       +/- 0.03385      (44.27%)
+b               = 1967.13          +/- 5.445        (0.2768%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:56:58 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-n.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28929e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 113.73
+
+initial set of free parameter values
+
+c               = 1
+d               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.260072
+rel. change during last iteration : -3.8783e-13
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.294433
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0866906
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = -0.345704        +/- 0.03907      (11.3%)
+d               = 1924.37          +/- 6.283        (0.3265%)
+
+
+correlation matrix of the fit parameters:
+
+               c      d      
+c               1.000 
+d               1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:57:28 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-n.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28815e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 113.73
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.195296
+rel. change during last iteration : -4.74683e-13
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.255144
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0650986
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0764789       +/- 0.03385      (44.27%)
+b               = 1967.13          +/- 5.445        (0.2768%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:57:28 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-n.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.28929e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 113.73
+
+initial set of free parameter values
+
+c               = 1
+d               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.260072
+rel. change during last iteration : -3.8783e-13
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.294433
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0866906
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = -0.345704        +/- 0.03907      (11.3%)
+d               = 1924.37          +/- 6.283        (0.3265%)
+
+
+correlation matrix of the fit parameters:
+
+               c      d      
+c               1.000 
+d               1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:58:29 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-p.gnuplot-data' using 1:6
+        format = x:z
+        x range restricted to [154.000 : 161.000]
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.98889e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 111.378
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00832762
+rel. change during last iteration : -3.92435e-12
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0456279
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0020819
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0634286        +/- 0.01091      (17.2%)
+b               = 1969.17          +/- 1.718        (0.08724%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 17:58:29 2014
+
+
+FIT:    data read from 'TA-TB-x-fein-p.gnuplot-data' using 1:7
+        format = x:z
+        x range restricted to [154.000 : 161.000]
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.98668e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 111.378
+
+initial set of free parameter values
+
+c               = 1
+d               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 1.54203
+rel. change during last iteration : -9.23005e-14
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.620893
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.385509
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 0.735429         +/- 0.1484       (20.18%)
+d               = 1862.32          +/- 23.38        (1.255%)
+
+
+correlation matrix of the fit parameters:
+
+               c      d      
+c               1.000 
+d              -1.000  1.000 
+
+
+*******************************************************************************
+Thu May 29 19:14:06 2014
+
+
+FIT:    data read from 'T-phi.gnuplot-data' using ($3)**2:7
+        format = x:z
+        x range restricted to [0.00000 : 0.0100000]
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.95816e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.707114
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.0413654
+rel. change during last iteration : -1.84214e-11
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.117424
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0137885
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 194.151          +/- 17.88        (9.208%)
+b               = 1979.27          +/- 0.08297      (0.004192%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.774  1.000 
+
+
+*******************************************************************************
+Thu May 29 19:14:32 2014
+
+
+FIT:    data read from 'T-phi.gnuplot-data' using ($3)**2:7
+        format = x:z
+        x range restricted to [0.00000 : 0.0100000]
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.95816e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.707114
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.0413654
+rel. change during last iteration : -1.84214e-11
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.117424
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0137885
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 194.151          +/- 17.88        (9.208%)
+b               = 1979.27          +/- 0.08297      (0.004192%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.774  1.000 
+
+
+*******************************************************************************
+Thu May 29 19:15:38 2014
+
+
+FIT:    data read from 'T-phi.gnuplot-data' using ($3)**2:7
+        format = x:z
+        x range restricted to [0.00000 : 0.0100000]
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.95816e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.707114
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.0413654
+rel. change during last iteration : -1.84214e-11
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.117424
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0137885
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 194.151          +/- 17.88        (9.208%)
+b               = 1979.27          +/- 0.08297      (0.004192%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.774  1.000 

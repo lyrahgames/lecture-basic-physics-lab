@@ -1,0 +1,26 @@
+set terminal epslatex size 15cm,9cm
+set output "RC-Tiefpass-Phase.tex"
+
+set title 'Phasenübertragungsfunktion eines RC-Tiefpasses'
+set xl '$f \ [Hz]$'
+set yl '$\Delta\varphi \ [1]$'
+
+set format x '$10^{%T}$'
+set format y '%.2f'
+
+set logscale x
+
+set key left
+set key width -5
+
+set yr [-0.2:1.8]
+
+plot 'RC-Tiefpass.gnuplot-data' \
+	using 1:9:2:10 \
+	with xyerrorbars pt 13 ps 0.8 \
+	title 'Messwerte' \
+	, \
+	pi/4 title '$ \pi/4 $' \
+	, \
+	atan(2* pi * x * 9867 * 9.379 * 1e-9) \
+	title '$\arg( g(\omega) )$ mit gemessenem $C$ und $R$'

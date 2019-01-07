@@ -1,0 +1,20 @@
+set terminal epslatex size 15cm, 9cm
+set output "LC-Schwingkreis.tex"
+
+set title 'Amplitudenübertragungsfunktion des LC-Schwingkreises'
+set xl '$ f \ [Hz] $'
+set yl '$ U_A \ [V] $'
+
+set logscale x
+
+set key left
+
+plot 'LC-Schwingkreis.gnuplot-data' \
+	using 1:2 \
+	with points pt 13 \
+	title 'Messwerte' \
+	, \
+	'' using 1:2:(3e-5) smooth acsplines \
+	title 'angenäherte Kurve' \
+	, \
+	0.33/sqrt(2) title '$U_{max}/\sqrt{2}$'

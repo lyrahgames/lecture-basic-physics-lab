@@ -1,0 +1,32 @@
+set terminal epslatex size 15cm, 9cm
+set output "praezession2.tex"
+
+set title '$T_p(f_K)$ für verschiedene Abstände $s$'
+set xl '$f_K \ [Hz]$'
+set yl '$T_p \ [s]$'
+
+set format x '%.1f'
+set format y '%.0f'
+
+set key top
+set key left
+
+f(x) = a*x
+g(x) = b*x
+set fit errorvariables
+fit f(x) 'praezession.gnuplot-data' using 5:6:7:8 every :::2::2 via a
+fit g(x) 'praezession.gnuplot-data' using 5:6:7:8 every :::3::3 via b
+
+set label sprintf("$a \\pm \\Delta a = (%.4f \\pm %.4f) \\ s^2$", a, a_err) at 2.4,13
+set label sprintf("$b \\pm \\Delta b = (%.3f \\pm %.3f) \\ s^2$", b, b_err) at 2.4,8
+
+plot [0:4.2] [0:55]'praezession.gnuplot-data' \
+	using 5:7:6:8 every :::2::2 \
+	title 'Messwerte $s = 10 \ mm$' \
+	with xyerrorbars, \
+	\
+	'' using 5:7:6:8 every :::3::3 \
+	title 'Messwerte $s = 20 \ mm$' \
+	with xyerrorbars, \
+	\
+	f(x) title '$f(x) = ax$' ,g(x) title '$g(x) = bx$'

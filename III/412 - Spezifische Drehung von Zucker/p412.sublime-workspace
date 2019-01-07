@@ -1,0 +1,1168 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"S",
+				"SIGNAL"
+			],
+			[
+				"gui",
+				"gui_act"
+			],
+			[
+				"add",
+				"addWidget"
+			],
+			[
+				"setSegPos",
+				"setSegEdgePosS"
+			],
+			[
+				"plot",
+				"plotFocused"
+			],
+			[
+				"get",
+				"getFloat"
+			],
+			[
+				"H",
+				"HistoWGUI"
+			],
+			[
+				"His",
+				"HistoW"
+			],
+			[
+				"QF",
+				"QFocusEvent"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"Hi",
+				"HistoWGUI"
+			],
+			[
+				"HistoW",
+				"HistoWGUI"
+			],
+			[
+				"int_",
+				"int_view_max"
+			],
+			[
+				"int_view",
+				"int_view_min"
+			],
+			[
+				"seg",
+				"seg_data"
+			],
+			[
+				"itn",
+				"int_view_min"
+			],
+			[
+				"int",
+				"int_view_min"
+			],
+			[
+				"dra",
+				"drawColor"
+			],
+			[
+				"draw",
+				"drawHistoMarker"
+			],
+			[
+				"color",
+				"color_drawing"
+			],
+			[
+				"marker",
+				"marker_drawing"
+			],
+			[
+				"colo",
+				"color_drawing"
+			],
+			[
+				"coor",
+				"color_drawing"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"bgC",
+				"setBGColor"
+			],
+			[
+				"coo",
+				"color_drawing"
+			],
+			[
+				"Histo",
+				"HistoWPlot"
+			],
+			[
+				"line",
+				"lineedit"
+			],
+			[
+				"QC",
+				"QColor"
+			],
+			[
+				"sh",
+				"show"
+			],
+			[
+				"re",
+				"repaint"
+			],
+			[
+				"init",
+				"initializeGL"
+			],
+			[
+				"QG",
+				"QGLWidget"
+			],
+			[
+				"sho",
+				"show"
+			],
+			[
+				"mo",
+				"modifiers"
+			],
+			[
+				"seg_edge",
+				"seg_edge_del_act"
+			],
+			[
+				"inte",
+				"interval_min"
+			],
+			[
+				"HISTOW_SEG",
+				"HISTOW_SEG_COUNT_MAX"
+			],
+			[
+				"view",
+				"view_max"
+			],
+			[
+				"HIST",
+				"HISTOW_INPUTDIALOG_DECIMALS"
+			],
+			[
+				"viw",
+				"view_min"
+			],
+			[
+				"setSeg",
+				"setSegEdgePosS"
+			],
+			[
+				"curso",
+				"cursor_seg_edge"
+			],
+			[
+				"cur",
+				"cursor_seg_edge"
+			],
+			[
+				"QGr",
+				"QGroupBox"
+			],
+			[
+				"cursor_int",
+				"cursor_int_view_move"
+			],
+			[
+				"curs",
+				"cursor_y"
+			],
+			[
+				"intv",
+				"int_view_max"
+			],
+			[
+				"int_vie",
+				"int_view_max"
+			],
+			[
+				"cursor_n",
+				"cursor_int_view_move"
+			],
+			[
+				"key",
+				"key_ctrl_pressed"
+			],
+			[
+				"segDa",
+				"setSegData"
+			],
+			[
+				"show",
+				"ShowAlphaChannel"
+			],
+			[
+				"QD",
+				"QColorDialog"
+			],
+			[
+				"setM",
+				"setMarkColor"
+			],
+			[
+				"mar",
+				"mark_color"
+			],
+			[
+				"gl",
+				"globalPos"
+			],
+			[
+				"setMa",
+				"setMarkerDrawing"
+			],
+			[
+				"seg_data",
+				"seg_data_init_act"
+			],
+			[
+				"seg_da",
+				"seg_data_init_act"
+			],
+			[
+				"delSeg",
+				"delSegEdgeS"
+			],
+			[
+				"uni",
+				"unsigned"
+			],
+			[
+				"seg_ed",
+				"seg_edge_del_act"
+			],
+			[
+				"dr",
+				"drawHistoColor"
+			],
+			[
+				"tr",
+				"triggered"
+			],
+			[
+				"cha",
+				"changeColor"
+			],
+			[
+				"cursor",
+				"cursor_seg_edge_move"
+			],
+			[
+				"QM",
+				"QMouseEvent"
+			],
+			[
+				"pixel",
+				"pixel_col"
+			],
+			[
+				"ps",
+				"position"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"SI",
+				"SizeHorCursor"
+			],
+			[
+				"set",
+				"setCursor"
+			],
+			[
+				"segP",
+				"segPosScrollBar"
+			],
+			[
+				"segEdge",
+				"segEdgePos"
+			],
+			[
+				"h",
+				"histoW"
+			],
+			[
+				"change",
+				"changeSegEdgeColor"
+			],
+			[
+				"value",
+				"valueChanged"
+			],
+			[
+				"sege",
+				"segEdgeSpinBox"
+			],
+			[
+				"segE",
+				"segEdgeColorButton"
+			],
+			[
+				"segEd",
+				"segEdgeScrollBar"
+			],
+			[
+				"se",
+				"segEdgeSpinBox"
+			],
+			[
+				"Q",
+				"QVBoxLayout"
+			],
+			[
+				"ma",
+				"mark_color"
+			],
+			[
+				"new",
+				"new_seg_data"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"HI",
+				"HISTOW_SEG_COUNT_MAX"
+			],
+			[
+				"draw_h",
+				"draw_histo_marker"
+			],
+			[
+				"draw_",
+				"draw_histo_color"
+			],
+			[
+				"move",
+				"moveSeg"
+			],
+			[
+				"Hist",
+				"HistoW"
+			],
+			[
+				"index",
+				"index"
+			],
+			[
+				"pixe",
+				"pixel_data"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"HISTOW_M",
+				"HISTOW_INT_MAX_DEFAULT"
+			],
+			[
+				"glcle",
+				"glClearColor"
+			],
+			[
+				"b",
+				"blue"
+			],
+			[
+				"bg",
+				"bg_color"
+			],
+			[
+				"struc",
+				"struct	struct {}"
+			],
+			[
+				"pi",
+				"pixel_data"
+			],
+			[
+				"int_view_",
+				"int_view_max"
+			],
+			[
+				"HISTOW",
+				"HISTOW_INT_MIN_DEFAULT"
+			],
+			[
+				"int_v",
+				"int_view_min"
+			],
+			[
+				"main",
+				"main	main()"
+			],
+			[
+				"p",
+				"pow2_inline"
+			],
+			[
+				"array",
+				"array_memcpy"
+			],
+			[
+				"arr",
+				"array_memset"
+			],
+			[
+				"for",
+				"for_unroll"
+			],
+			[
+				"fo",
+				"for_if"
+			],
+			[
+				"lis",
+				"list_dyn"
+			],
+			[
+				"list",
+				"list_stat_const"
+			],
+			[
+				"clo",
+				"clock"
+			],
+			[
+				"clock",
+				"clock_t"
+			],
+			[
+				"mat",
+				"matrix_128"
+			],
+			[
+				"p_",
+				"p_abcd_inc"
+			],
+			[
+				"li",
+				"list"
+			],
+			[
+				"cloc",
+				"clock_end"
+			],
+			[
+				"name",
+				"namespace	namespace {}"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "p-phi.gnuplot-data",
+			"settings":
+			{
+				"buffer_size": 92,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "d-phi.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 272,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "d-phi.dat",
+			"settings":
+			{
+				"buffer_size": 18,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lambda-phi.gnuplot-data",
+			"settings":
+			{
+				"buffer_size": 82,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.tex",
+			"settings":
+			{
+				"buffer_size": 2145,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main2.tex",
+			"settings":
+			{
+				"buffer_size": 2144,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add fol",
+				"Project: Add Folder"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"dict",
+				"Dictionaries: Set Language"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"toggle",
+				"View: Toggle Side Bar"
+			],
+			[
+				"togg",
+				"View: Toggle Minimap"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"ss",
+				"Set Syntax: C++"
+			],
+			[
+				"sett",
+				"Preferences: Settings - User"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"close ",
+				"Project: Close"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"dic",
+				"Dictionaries: Set Language"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"print",
+				"Print Entire File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"settin",
+				"Preferences: Settings - Default"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"proje",
+				"Project: Close"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/412 - Spezifische Drehung von Zucker/d-phi.gnuplot-data",
+		"/home/lyrahgames/cloud/Dropbox/pro/qt-project/histoW-v2/histoW.sublime-project",
+		"/home/lyrahgames/cloud/Dropbox/pro/qt-project/histoW/src/histo-w-ctrl.h",
+		"/home/lyrahgames/.bashrc",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Terminal.sublime-settings",
+		"/home/lyrahgames/cloud/Dropbox/pro/qt-project/histoW/histo-w-ctrl.h",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-spektrum.lvm",
+		"/home/lyrahgames/cloud/Dropbox/pro/qt-project/histoW/histoW.sublime-project",
+		"/home/lyrahgames/pro/cpu-time-measurement/test.s",
+		"/home/lyrahgames/pro/cpu-time-measurement/prg",
+		"/home/lyrahgames/pro/cpu-time-measurement/test-pp.cpp",
+		"/media/Data/home/cloud/Dropbox/media/e-books/Optimization Manuals/C++ Examples/AlignedArray.cpp",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/vec3f.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/btree.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/pref.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/morton.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/morton.cpp",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/vec3f.cpp",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-6.0_Samples/0_Simple/vectorAdd/vectorAdd.cu",
+		"/home/lyrahgames/pro/vrGen/cudaBench/src/main.cpp",
+		"/home/lyrahgames/pro/vrGen/cudaBench/src/cudaRT.cu",
+		"/home/lyrahgames/pro/vrGen/cudaBench/src/Camera.cpp",
+		"/home/lyrahgames/tmp/downloads/Unigine_Heaven-4.0.run",
+		"/etc/X11/Xsession.options",
+		"/etc/X11/xorg.conf",
+		"/home/lyrahgames/pro/vrGen/cudaBench/pro-files/camera_path/dragon.cam",
+		"/home/lyrahgames/.bash",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-6.0_Samples/0_Simple/vectorAdd/CMakeLists.txt",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-6.0_Samples/License.txt",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-6.0_Samples/Makefile",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Package Control.sublime-settings",
+		"/home/lyrahgames/pro/stl_viewer/src/Viewer.cpp",
+		"/home/lyrahgames/pro/stl_viewer/src/Universal.h",
+		"/home/lyrahgames/pro/stl_viewer/src/Camera.h",
+		"/home/lyrahgames/pro/stl_viewer/src/Dbgout.cpp",
+		"/home/lyrahgames/tools/qt/qt5.1.1/bin/qt.conf",
+		"/home/lyrahgames/pro/stl_viewer/src/Dbgout.h",
+		"/home/lyrahgames/pro/stl_viewer/src/MathUtil.h",
+		"/home/lyrahgames/pro/stl_viewer/src/Viewer.h",
+		"/home/lyrahgames/pro/stl_viewer/src/main.cpp",
+		"/home/lyrahgames/tmp/sublime_test/Hello.txt",
+		"/home/lyrahgames/tmp/sublime_test/tmp2.txt",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/lyrahgames/tmp/sublime_test/tmp/tmp.txt",
+		"/home/lyrahgames/tmp/sublime_test/tmp/test2.txt",
+		"/home/lyrahgames/tmp/sublime_test/tmp/test.tex",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
+		"/home/lyrahgames/tmp/sublime_test/tmp/main.cpp",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/SublimePrint.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/SublimePrint/SublimePrint.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/SublimePrint/README.md",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/lyrahgames/tmp/sublime_test/test.txt",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/C++ Snippets/README.md",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/openinbrowser.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/AdvancedNewFile/README.md",
+		"/home/lyrahgames/tmp/sublime_test/test.sublime-workspace",
+		"/home/lyrahgames/tmp/sublime_test/test.sublime-project",
+		"/home/lyrahgames/pro/stl_viewer/pro-files/linux/config.pro",
+		"/home/lyrahgames/tools/qt/qt5.1/mkspecs/features/spec_pre.prf",
+		"/home/lyrahgames/.profile",
+		"/home/lyrahgames/tools/compiler/intel_cce_14/composer_xe_2013_sp1.0.080/bin/compilervars.sh",
+		"/home/lyrahgames/tools/compiler/intel_cce_14/bin/compilervars.sh"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".",
+			"segedgeposa",
+			"segedgeposact",
+			"resize",
+			"init",
+			"repaint",
+			"gridIdx",
+			"__pos",
+			"draw_histo_marker",
+			"draw_histo_color",
+			"draw_histo_marker",
+			"draw_histo_color",
+			"setcolor",
+			"draw_histo_marker",
+			"draw_histo_color",
+			"draw_histo_marker",
+			"draw_histo_color",
+			"draw_histo_marker",
+			";",
+			");\n",
+			"draw_histo_marker",
+			"setintview",
+			"bg_color",
+			"{",
+			"init",
+			"Qt::CTRL",
+			"getInt",
+			"getDouble",
+			"QInputDialog",
+			"view_min",
+			"0",
+			"int_view_act",
+			"init",
+			"setint",
+			"__seg",
+			"addsegedge",
+			"addsegedgeact",
+			"addsegedgeac",
+			"show",
+			"__seg",
+			"getCol",
+			"getPos",
+			"__segment",
+			"__seg",
+			"getSeg",
+			"show_marker_act",
+			"seg_data_init_act",
+			"menu",
+			"tmp",
+			"setsegedgepos",
+			"setseged",
+			"segEdgeScrollBar",
+			"hptr",
+			"widget",
+			"segDataChanged",
+			")\n",
+			"segDataChanged",
+			"();",
+			"__HISTO_W_CTRL_H__",
+			"move",
+			"HISTOW_MARK_COLOR_DEFAULT",
+			"){",
+			"4height",
+			"**",
+			"width",
+			"marker",
+			"pixel_count",
+			"red",
+			"green",
+			"gle",
+			"unsigned",
+			"qt-5.2.1",
+			"$HOME/tools",
+			"/home/toolsLinux",
+			"begin",
+			"htt",
+			"Linux",
+			"home"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			","
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "p-phi.gnuplot-data",
+					"settings":
+					{
+						"buffer_size": 92,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								92
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "d-phi.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/User/gnuplot/gnuplot.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "d-phi.dat",
+					"settings":
+					{
+						"buffer_size": 18,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lambda-phi.gnuplot-data",
+					"settings":
+					{
+						"buffer_size": 82,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "main.tex",
+					"settings":
+					{
+						"buffer_size": 2145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								645,
+								645
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "main2.tex",
+					"settings":
+					{
+						"buffer_size": 2144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								645,
+								645
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 486.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 118.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"his",
+				"src/histo-w-ctrl.h"
+			],
+			[
+				"h",
+				"src/histo-w.cpp"
+			],
+			[
+				"hi",
+				"src/histo-w.h"
+			],
+			[
+				"ma",
+				"src/main.cpp"
+			],
+			[
+				"co",
+				"pro-files/linux/config.pro"
+			],
+			[
+				"hs",
+				"src/histo-w-ctrl.h"
+			],
+			[
+				"m",
+				"src/main.cpp"
+			],
+			[
+				"cuda",
+				"src/cudaRT.cu"
+			],
+			[
+				"mai",
+				"src/main.cpp"
+			],
+			[
+				"tm",
+				"tmp/tmp.txt"
+			],
+			[
+				"",
+				"Hello.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/lyrahgames/cloud/Dropbox/pro/qt-project/histoW-v2/histoW-v2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true
+}

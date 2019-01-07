@@ -1,0 +1,2475 @@
+
+
+*******************************************************************************
+Thu Jun 19 15:41:19 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77219e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.692764
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 9 iterations the fit converged.
+final sum of squares of residuals : 37585.7
+rel. change during last iteration : -4.51291e-07
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.9656
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3132.14
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 5862.17          +/- 977.4        (16.67%)
+b               = 132.976          +/- 10.52        (7.914%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               0.988  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 15:42:35 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704938
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.76
+rel. change during last iteration : -1.236e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6052
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.313
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.54951e+08      +/- 1.606e+08    (24.53%)
+b               = 4631.61          +/- 83.42        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 15:43:01 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:21:48 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:23:37 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:23:55 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:25:03 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:25:08 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:25:18 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:25:28 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:25:52 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:26:15 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:26:24 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:28:39 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:29:39 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:30:38 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:30:50 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:31:12 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:31:53 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:32:30 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:32:47 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:33:48 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:33:59 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:34:10 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:34:24 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:37:00 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:38:21 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:38:52 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:39:04 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:39:26 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 18:40:49 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using 1:6
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.77198e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.704939
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 727 iterations the fit converged.
+final sum of squares of residuals : 2559.39
+rel. change during last iteration : -1.33031e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.6042
+variance of residuals (reduced chisquare) = WSSR/ndf   : 213.283
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.59127e+08      +/- 1.617e+08    (24.54%)
+b               = 4635.82          +/- 83.49        (1.801%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b               1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 19:00:54 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):($2/(($1+273.15)*($1+273.15))):(log($6)):($7/$6)
+        format = x:y:z:s
+        #datapoints = 14
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.57571e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.192248
+
+initial set of free parameter values
+
+a               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 18612
+rel. change during last iteration : -3.11097e-07
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 37.8377
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1431.69
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 2224.05          +/- 52.6         (2.365%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Thu Jun 19 19:01:13 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):($2/(($1+273.15)*($1+273.15))):(log($6)):($7/$6)
+        format = x:y:z:s
+        #datapoints = 14
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.57571e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.192248
+
+initial set of free parameter values
+
+a               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 18612
+rel. change during last iteration : -3.11097e-07
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 37.8377
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1431.69
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 2224.05          +/- 52.6         (2.365%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Thu Jun 19 19:02:54 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):($2/(($1+273.15)*($1+273.15))):(log($6)):($7/$6)
+        format = x:y:z:s
+        #datapoints = 14
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.57571e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.192248
+
+initial set of free parameter values
+
+a               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 18612
+rel. change during last iteration : -3.11097e-07
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 37.8377
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1431.69
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 2224.05          +/- 52.6         (2.365%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Thu Jun 19 19:03:03 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):($2/(($1+273.15)*($1+273.15))):(log($6)):($7/$6)
+        format = x:y:z:s
+        #datapoints = 14
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.58032e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.192248
+
+initial set of free parameter values
+
+a               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 18612
+rel. change during last iteration : -3.11658e-07
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 37.8377
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1431.69
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -2224.05         +/- 52.6         (2.365%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Thu Jun 19 19:04:14 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):(log($6))
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 519.355           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.00307795
+
+initial set of free parameter values
+
+a               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 11.0529
+rel. change during last iteration : -1.04133e-07
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.922075
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.850223
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 1958.65          +/- 80.06        (4.088%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Thu Jun 19 19:05:45 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):(-log($6))
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 520.394           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.00307795
+
+initial set of free parameter values
+
+a               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 11.0529
+rel. change during last iteration : -1.04346e-07
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.922075
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.850223
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -1958.65         +/- 80.06        (4.088%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Thu Jun 19 19:06:15 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):(log($6))
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 519.355           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.00307795
+
+initial set of free parameter values
+
+a               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 11.0529
+rel. change during last iteration : -1.04133e-07
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.922075
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.850223
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 1958.65          +/- 80.06        (4.088%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Thu Jun 19 19:07:09 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):(log($6))
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 363.693           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.70711
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.0278801
+rel. change during last iteration : -9.29273e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.048201
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00232334
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -4447.22         +/- 93.09        (2.093%)
+b               = 19.7369          +/- 0.2865       (1.452%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.999  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 19:07:24 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):(log($6))
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 363.693           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.70711
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.0278801
+rel. change during last iteration : -9.29273e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.048201
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00232334
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -4447.22         +/- 93.09        (2.093%)
+b               = 19.7369          +/- 0.2865       (1.452%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.999  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 19:07:36 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):(log($6))
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 363.693           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.70711
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.0278801
+rel. change during last iteration : -9.29273e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.048201
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00232334
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -4447.22         +/- 93.09        (2.093%)
+b               = 19.7369          +/- 0.2865       (1.452%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.999  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 19:08:58 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):($2/(($1+273.15)*($1+273.15))):(log($6)):($7/$6)
+        format = x:y:z:s
+        #datapoints = 14
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.85584e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 45.9387
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 33.2652
+rel. change during last iteration : -1.30221e-07
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.66496
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.7721
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -4620.97         +/- 83.64        (1.81%)
+b               = 20.2633          +/- 0.2475       (1.222%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 19:09:18 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):($2/(($1+273.15)*($1+273.15))):(log($6)):($7/$6)
+        format = x:y:z:s
+        #datapoints = 14
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.85584e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 45.9387
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 33.2652
+rel. change during last iteration : -1.30221e-07
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.66496
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.7721
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -4620.97         +/- 83.64        (1.81%)
+b               = 20.2633          +/- 0.2475       (1.222%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 19:09:45 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):($2/(($1+273.15)*($1+273.15))):(log($6)):($7/$6)
+        format = x:y:z:s
+        #datapoints = 14
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.85584e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 45.9387
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 33.2652
+rel. change during last iteration : -1.30221e-07
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.66496
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.7721
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -4620.97         +/- 83.64        (1.81%)
+b               = 20.2633          +/- 0.2475       (1.222%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 19:11:01 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):($2/(($1+273.15)*($1+273.15))):(log($6)):($7/$6)
+        format = x:y:z:s
+        #datapoints = 14
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.85584e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 45.9387
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 33.2652
+rel. change during last iteration : -1.30221e-07
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.66496
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.7721
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -4620.97         +/- 83.64        (1.81%)
+b               = 20.2633          +/- 0.2475       (1.222%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 19:12:29 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):($2/(($1+273.15)*($1+273.15))):(log($12)):($13/$12)
+        format = x:y:z:s
+        #datapoints = 14
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.83656e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 45.7311
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 31.5507
+rel. change during last iteration : -1.35377e-07
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.62149
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.62922
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -4593.1          +/- 81.92        (1.784%)
+b               = 20.1769          +/- 0.2424       (1.201%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 19:17:28 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):($2/(($1+273.15)*($1+273.15))):(log($6)):($7/$6)
+        format = x:y:z:s
+        #datapoints = 14
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.85584e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 45.9387
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 33.2652
+rel. change during last iteration : -1.30221e-07
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.66496
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.7721
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -4620.97         +/- 83.64        (1.81%)
+b               = 20.2633          +/- 0.2475       (1.222%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 19:17:47 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):($2/(($1+273.15)*($1+273.15))):(log($6)):($7/$6)
+        format = x:y:z:s
+        #datapoints = 14
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.85584e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 45.9387
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 33.2652
+rel. change during last iteration : -1.30221e-07
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.66496
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.7721
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -4620.97         +/- 83.64        (1.81%)
+b               = 20.2633          +/- 0.2475       (1.222%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Fri Jun 20 09:26:03 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):($2/(($1+273.15)*($1+273.15))):(log($6)):($7/$6)
+        format = x:y:z:s
+        #datapoints = 14
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.85584e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 45.9387
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 33.2652
+rel. change during last iteration : -1.30221e-07
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.66496
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.7721
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -4620.97         +/- 83.64        (1.81%)
+b               = 20.2633          +/- 0.2475       (1.222%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Fri Jun 20 09:27:29 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):($2/(($1+273.15)*($1+273.15))):(log($6 +47)):(3*$7/($6+47))
+        format = x:y:z:s
+        #datapoints = 14
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 240089            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16.4011
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 6.12881
+rel. change during last iteration : -4.53125e-08
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.714656
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.510734
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -4183.09         +/- 93.28        (2.23%)
+b               = 19.0356          +/- 0.2766       (1.453%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Fri Jun 20 09:35:33 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):(log($6 +47))
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 380.026           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.70711
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.0385933
+rel. change during last iteration : -5.27059e-10
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0567107
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00321611
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -3940.41         +/- 109.5        (2.779%)
+b               = 18.3003          +/- 0.3371       (1.842%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.999  1.000 
+
+
+*******************************************************************************
+Fri Jun 20 09:36:37 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):($2/(($1+273.15)*($1+273.15))):(log($6 +47)):(3*$7/($6+47))
+        format = x:y:z:s
+        #datapoints = 14
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 240089            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16.4011
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 6.12881
+rel. change during last iteration : -4.53125e-08
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.714656
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.510734
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -4183.09         +/- 93.28        (2.23%)
+b               = 19.0356          +/- 0.2766       (1.453%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Fri Jun 20 09:58:58 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):($2/(($1+273.15)*($1+273.15))):(log($6 +47)):(3*$7/($6+47))
+        format = x:y:z:s
+        #datapoints = 14
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 240089            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16.4011
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 6.12881
+rel. change during last iteration : -4.53125e-08
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.714656
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.510734
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -4183.09         +/- 93.28        (2.23%)
+b               = 19.0356          +/- 0.2766       (1.453%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Fri Jun 20 09:58:59 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):($2/(($1+273.15)*($1+273.15))):(log($6 +47)):(3*$7/($6+47))
+        format = x:y:z:s
+        #datapoints = 14
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 240089            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16.4011
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 6.12881
+rel. change during last iteration : -4.53125e-08
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.714656
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.510734
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -4183.09         +/- 93.28        (2.23%)
+b               = 19.0356          +/- 0.2766       (1.453%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -1.000  1.000 
+
+
+*******************************************************************************
+Fri Jun 20 09:59:45 2014
+
+
+FIT:    data read from 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):($2/(($1+273.15)*($1+273.15))):(log($14)):($15/$14)
+        format = x:y:z:s
+        #datapoints = 14
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 433235            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22.0894
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 6.43077
+rel. change during last iteration : -5.13499e-07
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.73205
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.535898
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -4176.65         +/- 95.52        (2.287%)
+b               = 19.0011          +/- 0.283        (1.49%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -1.000  1.000 

@@ -1,0 +1,13 @@
+set terminal epslatex size 15cm,9cm
+set output "d-phi.tex"
+
+#set title 'Drehwinkel für verschiedene Kuevettenlaengen $d$ ($p=10%$)'
+#set xl '$d \ [mm]$'
+#set yl '$\varphi \ [\circ]$'
+
+plot 'd-phi.dat' \
+	using 1:2:3 \
+	with yerrorbars pt 13 ps 0.8 \
+	title 'Messwerte'
+
+	 

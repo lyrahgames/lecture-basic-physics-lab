@@ -1,0 +1,30 @@
+set terminal epslatex size 15cm, 9cm
+set output "erzw-schw.tex"
+
+set title 'Amplitude der Schwingkreisspannung'
+
+set xlabel '$f \ [kHz]$'
+set ylabel '$U_C \ [mV]$'
+
+#set xr [0.0:10.0]
+set yr [0.0:220.0]
+
+#set xtics 0, 1, 10
+#set mxtics 4
+
+set format x '%.2f'
+set format y '%.0f'
+
+f(x) = 195.0/sqrt(2)
+
+set arrow from 11.75,0 to 11.75,195
+
+set label '$f_0$' at 11.75, 210
+
+plot "erzw-schw.gnuplot-data"\
+	using 1:3:2:4 \
+	title 'Messwerte' \
+	with xyerrorbars pt 13 ps 0.8, \
+	\
+	f(x)\
+	title '$U_C(f_0)/\sqrt{2}$'

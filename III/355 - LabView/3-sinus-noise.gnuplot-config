@@ -1,0 +1,119 @@
+set terminal epslatex size 15cm, 20cm
+set output "3-sinus-noise.tex"
+
+set multiplot layout 3,2 title "\\textbf{Beispiel eines verrauschten Signals}"
+
+set key off
+
+set title 'Zeitverlauf Sinusschwingung'
+set xl '$t \ [s]$'
+set yl '$U \ [V]$'
+
+set xr [0:0.1]
+set yr [-1:1]
+
+set xtics 0.1
+set ytics 0.5
+
+set format x "%.1f"
+set format y "%.1f"
+
+plot 'sinus-2-zeitverlauf.lvm' \
+	using 1:2 \
+	with linespoints pt 13 ps 0.6 \
+	title 'Messwerte'
+
+
+set title 'Frequenzspektrum Sinusschwingung'
+set xl '$f \ [Hz]$'
+set yl '$F$'
+
+set xr [0:1000]
+set yr [0:0.8]
+
+set xtics 1000
+set ytics 0.2
+
+set format x "%.0f"
+set format y "%.1f"
+
+plot 'sinus-2-spektrum.lvm' \
+	using 1:2 \
+	with linespoints pt 13 ps 0.6 \
+	title 'Messwerte'
+
+
+set title 'Zeitverlauf Rauschen'
+set xl '$t \ [s]$'
+set yl '$U \ [V]$'
+
+set xr [0:0.1]
+set yr [-0.3:0.3]
+
+set xtics 0.1
+set ytics 0.2
+
+set format x "%.1f"
+set format y "%.1f"
+
+plot 'noise-2-zeitverlauf.lvm' \
+	using 1:2 \
+	with linespoints pt 13 ps 0.6 \
+	title 'Messwerte'
+
+
+set title 'Frequenzspektrum Rauschen'
+set xl '$f \ [Hz]$'
+set yl '$F$'
+
+set xr [0:1000]
+set yr [0:0.01]
+
+set xtics 1000
+set ytics 0.01
+
+set format x "%.0f"
+set format y "%.2f"
+
+plot 'noise-2-spektrum.lvm' \
+	using 1:2 \
+	with linespoints pt 13 ps 0.6 \
+	title 'Messwerte'
+
+
+set title 'Zeitverlauf verrauschte Sinusschwingung'
+set xl '$t \ [s]$'
+set yl '$U \ [V]$'
+
+set xr [0:0.1]
+set yr [-0.3:0.3]
+
+set xtics 0.1
+set ytics 0.3
+
+set format x "%.1f"
+set format y "%.1f"
+
+plot 'sinus-noise-3-zeitverlauf.lvm' \
+	using 1:2 \
+	with linespoints pt 13 ps 0.6 \
+	title 'Messwerte'
+
+
+set title 'Frequenzspektrum verrauschte Sinusschwingung'
+set xl '$f \ [Hz]$'
+set yl '$F$'
+
+set xr [0:1000]
+set yr [0:0.05]
+
+set xtics 1000
+set ytics 0.05
+
+set format x "%.0f"
+set format y "%.2f"
+
+plot 'sinus-noise-3-spektrum.lvm' \
+	using 1:2 \
+	with linespoints pt 13 ps 0.6 \
+	title 'Messwerte'

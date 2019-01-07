@@ -1,0 +1,35 @@
+set terminal epslatex size 15cm,9cm
+set output "hg-spektrum.tex"
+
+set title 'Hg-Spektrum'
+
+set xl '$\lambda \ [nm]$'
+set yl 'qualitative Intensität'
+
+set format y "%.1f"
+
+set yr [0.0:1.2]
+
+set xtics 25
+set mxtics 4
+
+unset key
+
+set label 'violett' at 412,0.5
+set label 'blau' at 440,0.7
+set label 'blaugrün' at 490, 0.5
+set label 'grün' at 550, 1.1
+set label 'gelb' at 590, 0.9
+set label 'rot' at 630, 0.3
+
+plot "hg-spektrum.gnuplot-data" \
+	using 9:11 \
+	title 'Messwerte' \
+	with impulses, \
+	\
+	'' using ($9+$10):11 \
+	title 'Fehler nach rechts' \
+	with impulses lt 2, \
+	'' using ($9-$10):11 \
+	title 'Fehler nach links' \
+	with impulses lt 2

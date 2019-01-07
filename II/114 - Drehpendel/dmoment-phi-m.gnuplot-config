@@ -1,0 +1,28 @@
+set terminal epslatex size 15cm,9cm
+set output "dmoment-phi-m.tex"
+
+set title 'Messung $\varphi_0(m)$'
+set yl '$\varphi_0 \ [1]$'
+set xl '$m \ [g]$'
+
+set yr [0:2.2]
+
+set format x '%.1f'
+set format y '%.1f'
+
+set key top
+set key left
+
+set fit errorvariables
+f(x) = a*x
+fit f(x) 'dmoment-phi-m.gnuplot-data' using 1:2:7:8 via a
+#fit f(x) 'dmoment-phi-m.gnuplot-data' using 1:7 via a
+
+set label sprintf("$a = (%.5f \\pm %.5f) \\ g^{-1}$", a, a_err) at 5,1.75
+
+plot [0:90] 'dmoment-phi-m.gnuplot-data' \
+	using 1:7:2:8 \
+	title 'Messwerte' \
+	with xyerrorbars pt 13 ps 0.8 \
+	, \
+	f(x) title '$f(x) =ax$'

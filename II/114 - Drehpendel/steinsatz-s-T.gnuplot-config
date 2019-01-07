@@ -1,0 +1,24 @@
+set terminal epslatex size 15cm,9cm
+set output "steinsatz-s-T.tex"
+
+set title 'Messung $s^2(T^2)$'
+set xl '$s^2 [mm^2]$'
+set yl '$T^2 [s^2]$'
+
+set yr [2:16]
+
+set format x '%.0f'
+set format y '%.1f'
+
+f(x) = a*x + b
+fit f(x) 'steinsatz-s-T.gnuplot-data' using (($1)**2):(($3)**2) via a,b
+
+plot 'steinsatz-s-T.gnuplot-data' \
+	using (($1)**2):(($3)**2):(2*$1*$2):(2*$3*$4) \
+	title 'Messwerte' \
+	with xyerrorbars pt 13 ps 0.8 \
+	, \
+	f(x) title '$f(x) =ax+b$'
+
+a               = 0.000633292      +/- 6.526e-05    (10.31%)
+b               = 4.78139          +/- 0.5107       (10.68%)

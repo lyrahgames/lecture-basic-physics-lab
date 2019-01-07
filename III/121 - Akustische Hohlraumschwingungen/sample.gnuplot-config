@@ -1,0 +1,18 @@
+set terminal epslatex size 15cm, 9cm
+set output "sample.tex"
+
+set title 'Messung der Resonatorfrequenz mit unterschiedlichen Samplefrequenzen'
+set xl 'Samplefrequenz $ \ [Hz]$'
+set yl '$f \ [Hz]$'
+
+set logscale x
+
+set xr [100:15000]
+set yr [0:220]
+
+set key bottom
+
+plot 'sample.gnuplot-data' \
+	using 1:2:3 \
+	with yerrorbars pt 13 ps 0.8 \
+	title 'Messwerte'

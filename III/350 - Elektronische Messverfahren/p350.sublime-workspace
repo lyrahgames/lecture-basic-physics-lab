@@ -1,0 +1,1153 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"fPIE"
+			],
+			[
+				"rang",
+				"rangeScroll2"
+			],
+			[
+				"ran",
+				"rangeScroll"
+			],
+			[
+				"ct",
+				"ctrlWnd"
+			],
+			[
+				"ra",
+				"rangeScroll"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"S",
+				"SLOT"
+			],
+			[
+				"QS",
+				"QScrollBar"
+			],
+			[
+				"sc",
+				"sceneWnd"
+			],
+			[
+				"set",
+				"setGeometry"
+			],
+			[
+				"sampl",
+				"sampleScroll"
+			],
+			[
+				"sampe",
+				"sampleLabel"
+			],
+			[
+				"sam",
+				"samples"
+			],
+			[
+				"sample",
+				"samples"
+			],
+			[
+				"samo",
+				"sampleScroll"
+			],
+			[
+				"IM",
+				"ImgWnd"
+			],
+			[
+				"cudainit",
+				"cudaInitRand"
+			],
+			[
+				"curan",
+				"curandState"
+			],
+			[
+				"bloc",
+				"blockDim"
+			],
+			[
+				"blo",
+				"blockDim"
+			],
+			[
+				"float",
+				"float3"
+			],
+			[
+				"floa",
+				"float"
+			],
+			[
+				"cudamem",
+				"cudamem	cudaMemcpy(,,,)"
+			],
+			[
+				"cudaIni",
+				"cudaInitRand"
+			],
+			[
+				"block",
+				"blockDim"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"threa",
+				"threadIdx"
+			],
+			[
+				"bl",
+				"blockIdx"
+			],
+			[
+				"rand",
+				"randNum"
+			],
+			[
+				"ini",
+				"init_randNum"
+			],
+			[
+				"num",
+				"randNum"
+			],
+			[
+				"init",
+				"initRandNum"
+			],
+			[
+				"cudame",
+				"cudamem	cudaMemcpy(,,,)"
+			],
+			[
+				"cudamal",
+				"cudamal	cudaMalloc((void**),);"
+			],
+			[
+				"thre",
+				"threadIdx"
+			],
+			[
+				"rad",
+				"random"
+			],
+			[
+				"B",
+				"BIG_NUM"
+			],
+			[
+				"lea",
+				"leafAddr"
+			],
+			[
+				"nod",
+				"nodeAddr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "frequenzverhalten2.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 538,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "frequenzverhalten.gnuplot-data",
+			"settings":
+			{
+				"buffer_size": 1119,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "frequenzverhalten.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 539,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.tex",
+			"settings":
+			{
+				"buffer_size": 2220,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/lyrahgames/tools/qwt/qwt-6.1.1/install-src/README",
+			"settings":
+			{
+				"buffer_size": 914,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/lyrahgames/tools/qwt/qwt-6.1.1/install-src/INSTALL",
+			"settings":
+			{
+				"buffer_size": 29,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/lyrahgames/tools/qwt/qwt-6.1.1/install-src/qwtconfig.pri",
+			"settings":
+			{
+				"buffer_size": 6945,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/lyrahgames/.bashrc",
+			"settings":
+			{
+				"buffer_size": 5089,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/lyrahgames/pro/qt-pro/histoW/PSProHistogram/build/config.pro",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/lyrahgames/pro/qt-pro/histoW/PSProHistogram/PSProHistogram.cpp",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/lyrahgames/usr/tab-reparatur.txt",
+			"settings":
+			{
+				"buffer_size": 404,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Installation Instructions\n*************************\n\nCopyright (C) 1994-1996, 1999-2002, 2004-2013 Free Software Foundation,\nInc.\n\n   Copying and distribution of this file, with or without modification,\nare permitted in any medium without royalty provided the copyright\nnotice and this notice are preserved.  This file is offered as-is,\nwithout warranty of any kind.\n\nBasic Installation\n==================\n\n   Briefly, the shell command `./configure && make && make install'\nshould configure, build, and install this package.  The following\nmore-detailed instructions are generic; see the `README' file for\ninstructions specific to this package.  Some packages provide this\n`INSTALL' file but do not implement all of the features documented\nbelow.  The lack of an optional feature in a given package is not\nnecessarily a bug.  More recommendations for GNU packages can be found\nin *note Makefile Conventions: (standards)Makefile Conventions.\n\n   The `configure' shell script attempts to guess correct values for\nvarious system-dependent variables used during compilation.  It uses\nthose values to create a `Makefile' in each directory of the package.\nIt may also create one or more `.h' files containing system-dependent\ndefinitions.  Finally, it creates a shell script `config.status' that\nyou can run in the future to recreate the current configuration, and a\nfile `config.log' containing compiler output (useful mainly for\ndebugging `configure').\n\n   It can also use an optional file (typically called `config.cache'\nand enabled with `--cache-file=config.cache' or simply `-C') that saves\nthe results of its tests to speed up reconfiguring.  Caching is\ndisabled by default to prevent problems with accidental use of stale\ncache files.\n\n   If you need to do unusual things to compile the package, please try\nto figure out how `configure' could check whether to do them, and mail\ndiffs or instructions to the address given in the `README' so they can\nbe considered for the next release.  If you are using the cache, and at\nsome point `config.cache' contains results you don't want to keep, you\nmay remove or edit it.\n\n   The file `configure.ac' (or `configure.in') is used to create\n`configure' by a program called `autoconf'.  You need `configure.ac' if\nyou want to change it or regenerate `configure' using a newer version\nof `autoconf'.\n\n   The simplest way to compile this package is:\n\n  1. `cd' to the directory containing the package's source code and type\n     `./configure' to configure the package for your system.\n\n     Running `configure' might take a while.  While running, it prints\n     some messages telling which features it is checking for.\n\n  2. Type `make' to compile the package.\n\n  3. Optionally, type `make check' to run any self-tests that come with\n     the package, generally using the just-built uninstalled binaries.\n\n  4. Type `make install' to install the programs and any data files and\n     documentation.  When installing into a prefix owned by root, it is\n     recommended that the package be configured and built as a regular\n     user, and only the `make install' phase executed with root\n     privileges.\n\n  5. Optionally, type `make installcheck' to repeat any self-tests, but\n     this time using the binaries in their final installed location.\n     This target does not install anything.  Running this target as a\n     regular user, particularly if the prior `make install' required\n     root privileges, verifies that the installation completed\n     correctly.\n\n  6. You can remove the program binaries and object files from the\n     source code directory by typing `make clean'.  To also remove the\n     files that `configure' created (so you can compile the package for\n     a different kind of computer), type `make distclean'.  There is\n     also a `make maintainer-clean' target, but that is intended mainly\n     for the package's developers.  If you use it, you may have to get\n     all sorts of other programs in order to regenerate files that came\n     with the distribution.\n\n  7. Often, you can also type `make uninstall' to remove the installed\n     files again.  In practice, not all packages have tested that\n     uninstallation works correctly, even though it is required by the\n     GNU Coding Standards.\n\n  8. Some packages, particularly those that use Automake, provide `make\n     distcheck', which can by used by developers to test that all other\n     targets like `make install' and `make uninstall' work correctly.\n     This target is generally not run by end users.\n\nCompilers and Options\n=====================\n\n   Some systems require unusual options for compilation or linking that\nthe `configure' script does not know about.  Run `./configure --help'\nfor details on some of the pertinent environment variables.\n\n   You can give `configure' initial values for configuration parameters\nby setting variables in the command line or in the environment.  Here\nis an example:\n\n     ./configure CC=c99 CFLAGS=-g LIBS=-lposix\n\n   *Note Defining Variables::, for more details.\n\nCompiling For Multiple Architectures\n====================================\n\n   You can compile the package for more than one kind of computer at the\nsame time, by placing the object files for each architecture in their\nown directory.  To do this, you can use GNU `make'.  `cd' to the\ndirectory where you want the object files and executables to go and run\nthe `configure' script.  `configure' automatically checks for the\nsource code in the directory that `configure' is in and in `..'.  This\nis known as a \"VPATH\" build.\n\n   With a non-GNU `make', it is safer to compile the package for one\narchitecture at a time in the source code directory.  After you have\ninstalled the package for one architecture, use `make distclean' before\nreconfiguring for another architecture.\n\n   On MacOS X 10.5 and later systems, you can create libraries and\nexecutables that work on multiple system types--known as \"fat\" or\n\"universal\" binaries--by specifying multiple `-arch' options to the\ncompiler but only a single `-arch' option to the preprocessor.  Like\nthis:\n\n     ./configure CC=\"gcc -arch i386 -arch x86_64 -arch ppc -arch ppc64\" \\\n                 CXX=\"g++ -arch i386 -arch x86_64 -arch ppc -arch ppc64\" \\\n                 CPP=\"gcc -E\" CXXCPP=\"g++ -E\"\n\n   This is not guaranteed to produce working output in all cases, you\nmay have to build one architecture at a time and combine the results\nusing the `lipo' tool if you have problems.\n\nInstallation Names\n==================\n\n   By default, `make install' installs the package's commands under\n`/usr/local/bin', include files under `/usr/local/include', etc.  You\ncan specify an installation prefix other than `/usr/local' by giving\n`configure' the option `--prefix=PREFIX', where PREFIX must be an\nabsolute file name.\n\n   You can specify separate installation prefixes for\narchitecture-specific files and architecture-independent files.  If you\npass the option `--exec-prefix=PREFIX' to `configure', the package uses\nPREFIX as the prefix for installing programs and libraries.\nDocumentation and other data files still use the regular prefix.\n\n   In addition, if you use an unusual directory layout you can give\noptions like `--bindir=DIR' to specify different values for particular\nkinds of files.  Run `configure --help' for a list of the directories\nyou can set and what kinds of files go in them.  In general, the\ndefault for these options is expressed in terms of `${prefix}', so that\nspecifying just `--prefix' will affect all of the other directory\nspecifications that were not explicitly provided.\n\n   The most portable way to affect installation locations is to pass the\ncorrect locations to `configure'; however, many packages provide one or\nboth of the following shortcuts of passing variable assignments to the\n`make install' command line to change installation locations without\nhaving to reconfigure or recompile.\n\n   The first method involves providing an override variable for each\naffected directory.  For example, `make install\nprefix=/alternate/directory' will choose an alternate location for all\ndirectory configuration variables that were expressed in terms of\n`${prefix}'.  Any directories that were specified during `configure',\nbut not in terms of `${prefix}', must each be overridden at install\ntime for the entire installation to be relocated.  The approach of\nmakefile variable overrides for each directory variable is required by\nthe GNU Coding Standards, and ideally causes no recompilation.\nHowever, some platforms have known limitations with the semantics of\nshared libraries that end up requiring recompilation when using this\nmethod, particularly noticeable in packages that use GNU Libtool.\n\n   The second method involves providing the `DESTDIR' variable.  For\nexample, `make install DESTDIR=/alternate/directory' will prepend\n`/alternate/directory' before all installation names.  The approach of\n`DESTDIR' overrides is not required by the GNU Coding Standards, and\ndoes not work on platforms that have drive letters.  On the other hand,\nit does better at avoiding recompilation issues, and works well even\nwhen some directory options were not specified in terms of `${prefix}'\nat `configure' time.\n\nOptional Features\n=================\n\n   If the package supports it, you can cause programs to be installed\nwith an extra prefix or suffix on their names by giving `configure' the\noption `--program-prefix=PREFIX' or `--program-suffix=SUFFIX'.\n\n   Some packages pay attention to `--enable-FEATURE' options to\n`configure', where FEATURE indicates an optional part of the package.\nThey may also pay attention to `--with-PACKAGE' options, where PACKAGE\nis something like `gnu-as' or `x' (for the X Window System).  The\n`README' should mention any `--enable-' and `--with-' options that the\npackage recognizes.\n\n   For packages that use the X Window System, `configure' can usually\nfind the X include and library files automatically, but if it doesn't,\nyou can use the `configure' options `--x-includes=DIR' and\n`--x-libraries=DIR' to specify their locations.\n\n   Some packages offer the ability to configure how verbose the\nexecution of `make' will be.  For these packages, running `./configure\n--enable-silent-rules' sets the default to minimal output, which can be\noverridden with `make V=1'; while running `./configure\n--disable-silent-rules' sets the default to verbose, which can be\noverridden with `make V=0'.\n\nParticular systems\n==================\n\n   On HP-UX, the default C compiler is not ANSI C compatible.  If GNU\nCC is not installed, it is recommended to use the following options in\norder to use an ANSI C compiler:\n\n     ./configure CC=\"cc -Ae -D_XOPEN_SOURCE=500\"\n\nand if that doesn't work, install pre-built binaries of GCC for HP-UX.\n\n   HP-UX `make' updates targets which have the same time stamps as\ntheir prerequisites, which makes it generally unusable when shipped\ngenerated files such as `configure' are involved.  Use GNU `make'\ninstead.\n\n   On OSF/1 a.k.a. Tru64, some versions of the default C compiler cannot\nparse its `<wchar.h>' header file.  The option `-nodtk' can be used as\na workaround.  If GNU CC is not installed, it is therefore recommended\nto try\n\n     ./configure CC=\"cc\"\n\nand if that doesn't work, try\n\n     ./configure CC=\"cc -nodtk\"\n\n   On Solaris, don't put `/usr/ucb' early in your `PATH'.  This\ndirectory contains several dysfunctional programs; working variants of\nthese programs are available in `/usr/bin'.  So, if you need `/usr/ucb'\nin your `PATH', put it _after_ `/usr/bin'.\n\n   On Haiku, software installed for all users goes in `/boot/common',\nnot `/usr/local'.  It is recommended to use the following options:\n\n     ./configure --prefix=/boot/common\n\nSpecifying the System Type\n==========================\n\n   There may be some features `configure' cannot figure out\nautomatically, but needs to determine by the type of machine the package\nwill run on.  Usually, assuming the package is built to be run on the\n_same_ architectures, `configure' can figure that out, but if it prints\na message saying it cannot guess the machine type, give it the\n`--build=TYPE' option.  TYPE can either be a short name for the system\ntype, such as `sun4', or a canonical name which has the form:\n\n     CPU-COMPANY-SYSTEM\n\nwhere SYSTEM can have one of these forms:\n\n     OS\n     KERNEL-OS\n\n   See the file `config.sub' for the possible values of each field.  If\n`config.sub' isn't included in this package, then this package doesn't\nneed to know the machine type.\n\n   If you are _building_ compiler tools for cross-compiling, you should\nuse the option `--target=TYPE' to select the type of system they will\nproduce code for.\n\n   If you want to _use_ a cross compiler, that generates code for a\nplatform different from the build platform, you should specify the\n\"host\" platform (i.e., that on which the generated programs will\neventually be run) with `--host=TYPE'.\n\nSharing Defaults\n================\n\n   If you want to set default values for `configure' scripts to share,\nyou can create a site shell script called `config.site' that gives\ndefault values for variables like `CC', `cache_file', and `prefix'.\n`configure' looks for `PREFIX/share/config.site' if it exists, then\n`PREFIX/etc/config.site' if it exists.  Or, you can set the\n`CONFIG_SITE' environment variable to the location of the site script.\nA warning: not all `configure' scripts look for a site script.\n\nDefining Variables\n==================\n\n   Variables not defined in a site shell script can be set in the\nenvironment passed to `configure'.  However, some packages may run\nconfigure again during the build, and the customized values of these\nvariables may be lost.  In order to avoid this problem, you should set\nthem in the `configure' command line, using `VAR=value'.  For example:\n\n     ./configure CC=/usr/local2/bin/gcc\n\ncauses the specified `gcc' to be used as the C compiler (unless it is\noverridden in the site shell script).\n\nUnfortunately, this technique does not work for `CONFIG_SHELL' due to\nan Autoconf limitation.  Until the limitation is lifted, you can use\nthis workaround:\n\n     CONFIG_SHELL=/bin/bash ./configure CONFIG_SHELL=/bin/bash\n\n`configure' Invocation\n======================\n\n   `configure' recognizes the following options to control how it\noperates.\n\n`--help'\n`-h'\n     Print a summary of all of the options to `configure', and exit.\n\n`--help=short'\n`--help=recursive'\n     Print a summary of the options unique to this package's\n     `configure', and exit.  The `short' variant lists options used\n     only in the top level, while the `recursive' variant lists options\n     also present in any nested packages.\n\n`--version'\n`-V'\n     Print the version of Autoconf used to generate the `configure'\n     script, and exit.\n\n`--cache-file=FILE'\n     Enable the cache: use and save the results of the tests in FILE,\n     traditionally `config.cache'.  FILE defaults to `/dev/null' to\n     disable caching.\n\n`--config-cache'\n`-C'\n     Alias for `--cache-file=config.cache'.\n\n`--quiet'\n`--silent'\n`-q'\n     Do not print messages saying which checks are being made.  To\n     suppress all normal output, redirect it to `/dev/null' (any error\n     messages will still be shown).\n\n`--srcdir=DIR'\n     Look for the package's source code in directory DIR.  Usually\n     `configure' can determine that directory automatically.\n\n`--prefix=DIR'\n     Use DIR as the installation prefix.  *note Installation Names::\n     for more details, including other options available for fine-tuning\n     the installation locations.\n\n`--no-create'\n`-n'\n     Run the configure checks, but stop before creating any output\n     files.\n\n`configure' also accepts some other, not widely useful, options.  Run\n`configure --help' for more details.\n",
+			"file": "/home/lyrahgames/tools/octave/octave-3.8.2/install-src/INSTALL",
+			"file_size": 15752,
+			"file_write_time": 1407347672000000,
+			"settings":
+			{
+				"buffer_size": 15752,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nAdvancedNewFile:\n---------------\n\n  - Fix bugs related to ST2 and the cut to file command\n  \n",
+			"settings":
+			{
+				"buffer_size": 144,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/home/lyrahgames/pro/qt-pro/histoW/PSProHistogram/PSProHistogramWidget.h",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/lyrahgames/pro/qt-pro/histoW/PSProHistogram/MarkerColorChange.h",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/lyrahgames/pro/qt-pro/histoW/PSProHistogram/PSProHistogram.h",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/lyrahgames/pro/qt-pro/histoW/PSProHistogram/build/Makefile",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 243.0,
+		"selected_items":
+		[
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"l",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"ssc",
+				"Set Syntax: C++"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"close ",
+				"Project: Close"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"dic",
+				"Dictionaries: Set Language"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"print",
+				"Print Entire File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"settin",
+				"Preferences: Settings - Default"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"proje",
+				"Project: Close"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 584.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/lyrahgames/pro/qt-pro/histoW/PSProHistogram/build/config.pro",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/350 - Elektronische Messverfahren/main.tex",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Origami/Default (Linux).sublime-keymap",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Origami/Origami.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
+		"/home/lyrahgames/pro/op_raytracer/raytracer/bvh.h",
+		"/home/lyrahgames/pro/op_raytracer/struct/morton.h",
+		"/home/lyrahgames/pro/op_raytracer/struct/btree.h",
+		"/media/CC46-C488/Praktikum Fraunhofer Institut/op_raytracer/struct/morton.cpp",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/QuickPrint/README",
+		"/home/lyrahgames/cloud/Dropbox/media/docs/recipes/Schokokuchen",
+		"/usr/share/vlc/lua/http/.hosts",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Mathematische Methoden der Physik/II/Skript/Passwort",
+		"/home/lyrahgames/cloud/Dropbox/tools/sublime-text/sublime-text-2.0.2/backup-package-list.txt",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/vec3f.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/btree.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/pref.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/morton.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/morton.cpp",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/vec3f.cpp",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-6.0_Samples/0_Simple/vectorAdd/vectorAdd.cu",
+		"/home/lyrahgames/pro/vrGen/cudaBench/src/main.cpp",
+		"/home/lyrahgames/pro/vrGen/cudaBench/src/cudaRT.cu",
+		"/home/lyrahgames/pro/vrGen/cudaBench/src/Camera.cpp",
+		"/home/lyrahgames/tmp/downloads/Unigine_Heaven-4.0.run",
+		"/etc/X11/Xsession.options",
+		"/etc/X11/xorg.conf",
+		"/home/lyrahgames/pro/vrGen/cudaBench/pro-files/camera_path/dragon.cam",
+		"/home/lyrahgames/.bashrc",
+		"/home/lyrahgames/.bash",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-6.0_Samples/0_Simple/vectorAdd/CMakeLists.txt",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-6.0_Samples/License.txt",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-6.0_Samples/Makefile",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Package Control.sublime-settings",
+		"/home/lyrahgames/pro/stl_viewer/src/Viewer.cpp",
+		"/home/lyrahgames/pro/stl_viewer/src/Universal.h",
+		"/home/lyrahgames/pro/stl_viewer/src/Camera.h",
+		"/home/lyrahgames/pro/stl_viewer/src/Dbgout.cpp",
+		"/home/lyrahgames/tools/qt/qt5.1.1/bin/qt.conf",
+		"/home/lyrahgames/pro/stl_viewer/src/Dbgout.h",
+		"/home/lyrahgames/pro/stl_viewer/src/MathUtil.h",
+		"/home/lyrahgames/pro/stl_viewer/src/Viewer.h",
+		"/home/lyrahgames/pro/stl_viewer/src/main.cpp",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/lyrahgames/tmp/sublime_test/Hello.txt",
+		"/home/lyrahgames/tmp/sublime_test/tmp2.txt",
+		"/home/lyrahgames/tmp/sublime_test/tmp/tmp.txt",
+		"/home/lyrahgames/tmp/sublime_test/tmp/test2.txt",
+		"/home/lyrahgames/tmp/sublime_test/tmp/test.tex",
+		"/home/lyrahgames/tmp/sublime_test/tmp/main.cpp",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/SublimePrint.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/SublimePrint/SublimePrint.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/SublimePrint/README.md",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/lyrahgames/tmp/sublime_test/test.txt",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/C++ Snippets/README.md",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/openinbrowser.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/AdvancedNewFile/README.md",
+		"/home/lyrahgames/tmp/sublime_test/test.sublime-workspace",
+		"/home/lyrahgames/tmp/sublime_test/test.sublime-project",
+		"/home/lyrahgames/pro/stl_viewer/pro-files/linux/config.pro",
+		"/home/lyrahgames/tools/qt/qt5.1/mkspecs/features/spec_pre.prf",
+		"/home/lyrahgames/.profile",
+		"/home/lyrahgames/tools/compiler/intel_cce_14/composer_xe_2013_sp1.0.080/bin/compilervars.sh",
+		"/home/lyrahgames/tools/compiler/intel_cce_14/bin/compilervars.sh"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"range",
+			"samples",
+			"kep",
+			"cudaRT",
+			"cuda",
+			"samples",
+			"ambi",
+			"sample",
+			"SAMPLE",
+			"paintGL",
+			"sample",
+			"paint",
+			"resize",
+			"resive",
+			"cudaini",
+			"ww",
+			"cudaRT",
+			"amb",
+			"ambi",
+			"sampleHits",
+			"shits",
+			"cudaRT",
+			"mapRT",
+			"amb",
+			"ambie",
+			"oidirz",
+			"oidirx",
+			"idirz",
+			"idirx",
+			"ambi",
+			"nuIndex",
+			"modLUT",
+			"view",
+			"orig",
+			"r",
+			"$HOME/tools",
+			"/home/toolsLinux",
+			"begin",
+			"htt",
+			"Linux",
+			"home"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "frequenzverhalten2.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 538,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								204
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/User/gnuplot/gnuplot.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "frequenzverhalten.gnuplot-data",
+					"settings":
+					{
+						"buffer_size": 1119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1119,
+								1119
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "frequenzverhalten.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 539,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								539,
+								539
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/User/gnuplot/gnuplot.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "main.tex",
+					"settings":
+					{
+						"buffer_size": 2220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2139,
+								2139
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 552.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/lyrahgames/tools/qwt/qwt-6.1.1/install-src/README",
+					"settings":
+					{
+						"buffer_size": 914,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/lyrahgames/tools/qwt/qwt-6.1.1/install-src/INSTALL",
+					"settings":
+					{
+						"buffer_size": 29,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/lyrahgames/tools/qwt/qwt-6.1.1/install-src/qwtconfig.pri",
+					"settings":
+					{
+						"buffer_size": 6945,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								745,
+								745
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/lyrahgames/.bashrc",
+					"settings":
+					{
+						"buffer_size": 5089,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1728.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/lyrahgames/pro/qt-pro/histoW/PSProHistogram/build/config.pro",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/qmake/qmake.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/home/lyrahgames/pro/qt-pro/histoW/PSProHistogram/PSProHistogram.cpp",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/home/lyrahgames/usr/tab-reparatur.txt",
+					"settings":
+					{
+						"buffer_size": 404,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/home/lyrahgames/tools/octave/octave-3.8.2/install-src/INSTALL",
+					"settings":
+					{
+						"buffer_size": 15752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"settings":
+					{
+						"buffer_size": 144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/home/lyrahgames/pro/qt-pro/histoW/PSProHistogram/PSProHistogramWidget.h",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/home/lyrahgames/pro/qt-pro/histoW/PSProHistogram/MarkerColorChange.h",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/home/lyrahgames/pro/qt-pro/histoW/PSProHistogram/PSProHistogram.h",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/home/lyrahgames/pro/qt-pro/histoW/PSProHistogram/build/Makefile",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 118.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mai",
+				"main.tex"
+			],
+			[
+				"cuda",
+				"src/cudaRT.cu"
+			],
+			[
+				"tm",
+				"tmp/tmp.txt"
+			],
+			[
+				"",
+				"Hello.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/353 - Feldeffekttransistor/p353.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,1015 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cuda",
+				"cudaexec	kernel\"<<<,>>>();"
+			],
+			[
+				"if",
+				"ifelse	if (){}else{}"
+			],
+			[
+				"class",
+				"class	class-..-(class)"
+			],
+			[
+				"str",
+				"struct	struct"
+			],
+			[
+				"struct",
+				"struct	struct"
+			],
+			[
+				"stru",
+				"struct	struct"
+			],
+			[
+				"struc",
+				"struct	struct"
+			],
+			[
+				"sr",
+				"struct	struct"
+			],
+			[
+				"clas",
+				"class	class"
+			],
+			[
+				"c",
+				"cmal	cudaMalloc"
+			],
+			[
+				"cm",
+				"cmalmng	cudaMallocManaged"
+			],
+			[
+				"inc",
+				"inc	#include \"…\""
+			],
+			[
+				"cla",
+				"class	class-..-(class)"
+			],
+			[
+				"cl",
+				"class_	class"
+			],
+			[
+				"pri",
+				"PRINT"
+			],
+			[
+				"Prin",
+				"PRINT"
+			],
+			[
+				"de",
+				"device"
+			],
+			[
+				"Cuda",
+				"CUDA_TPB"
+			],
+			[
+				"vec",
+				"vec3"
+			],
+			[
+				"d_vec",
+				"d_vec1"
+			],
+			[
+				"d_",
+				"d_vec1"
+			],
+			[
+				"De",
+				"DEBUG_PRINT"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "TA-TB-x-grob.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 1080,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TA-TB-x-fein-p.gnuplot-data",
+			"settings":
+			{
+				"buffer_size": 325,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TA-TB-x-fein-p.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 923,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TA-TB-x-fein-n.gnuplot-data",
+			"settings":
+			{
+				"buffer_size": 292,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TA-TB-x-fein-n.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 915,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "T-phi.gnuplot-data",
+			"settings":
+			{
+				"buffer_size": 345,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "T-phi.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 635,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TA-TB-x-grob.gnuplot-data",
+			"settings":
+			{
+				"buffer_size": 562,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.tex",
+			"settings":
+			{
+				"buffer_size": 2309,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main2.tex",
+			"settings":
+			{
+				"buffer_size": 2156,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 117.0,
+		"selected_items":
+		[
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"add fo",
+				"Project: Add Folder"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"sett",
+				"Preferences: Settings - Default"
+			],
+			[
+				"snippet",
+				"Snippet: if"
+			],
+			[
+				"ss",
+				"Set Syntax: C++"
+			],
+			[
+				"ss c",
+				"Set Syntax: C++"
+			],
+			[
+				"ssc",
+				"Set Syntax: C"
+			],
+			[
+				"aaa",
+				"z:AAAPackageDev: New Raw Snippet"
+			],
+			[
+				"snippet ",
+				"z:AAAPackageDev: New Raw Snippet"
+			],
+			[
+				"l",
+				"Package Control: List Packages"
+			],
+			[
+				"SS",
+				"Set Syntax: C++"
+			],
+			[
+				"setting",
+				"Preferences: Settings - Default"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"sscuda",
+				"Set Syntax: CUDA C++"
+			],
+			[
+				"if",
+				"Snippet: If Condition"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"class",
+				"Snippet: class-..-(class)"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"std",
+				"Snippet: Standard Initialisation"
+			],
+			[
+				"stdinit",
+				"Snippet: Standard Initialisation"
+			],
+			[
+				"latex",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"latext",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"bui",
+				"Build: Build"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"sa",
+				"Project: Save As"
+			],
+			[
+				"ss c++",
+				"Set Syntax: C++"
+			],
+			[
+				"toggle ope",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"dic",
+				"Dictionaries: Set Language"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"print",
+				"Print Entire File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"settin",
+				"Preferences: Settings - Default"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"proje",
+				"Project: Close"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 584.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/II/406 - Gitter und Prismenspektrometer/tmp.txt",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/II/400 - Mikrowellen/u-alpha.ods",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/II/400 - Mikrowellen/u-aplha.ods",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/II/400 - Mikrowellen/u-alpha.gnuplot-confi",
+		"/home/lyrahgames/cloud/Dropbox/media/docs/recipes/Schokokuchen",
+		"/home/lyrahgames/tmp/gnuplot-epslatex/asdf.cpp",
+		"/home/lyrahgames/tmp/gnuplot-epslatex/main2.cu",
+		"/home/lyrahgames/tmp/gnuplot-epslatex/main.cpp",
+		"/home/lyrahgames/tmp/gnuplot-epslatex/asdf4.cu",
+		"/home/lyrahgames/tmp/gnuplot-epslatex/asdf.cu",
+		"/home/lyrahgames/tmp/gnuplot-epslatex/asdf3.cu",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/c++/snippets/cuda/cudamem.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/c++/snippets/cuda/cudasync.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/c++/snippets/cuda/cudamalm.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/c++/snippets/cuda/cudamal.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/c++/snippets/cuda/cudakernel.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/c++/snippets/cuda/cudaexec.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/c++/snippets/linc.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/c++/snippets/while.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/c++/snippets/enum.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/c++/snippets/namespace.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/c++/snippets/struct.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/c++/snippets/inc.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/c++/snippets/for.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/c++/snippets/ifelse.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/c++/snippets/if.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/c++/snippets/class.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/c++/snippets/main.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/c++/C++.sublime-settings",
+		"/home/lyrahgames/tmp/gnuplot-epslatex/main.tex",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/c++/C++.tmLanguage",
+		"/home/lyrahgames/tmp/gnuplot-epslatex/asdf2.cu",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/C++/C++.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/C++/snippets/struct.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/C++/snippets/class.sublime-snippet",
+		"/home/lyrahgames/tmp/gnuplot-epslatex/test.cu",
+		"/home/lyrahgames/tmp/gnuplot-epslatex/main.cu",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/C++/snippets/cuda/cudaexec.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/C++/snippets/cuda/cudakernel.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/C++/snippets/cuda/cudamem.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/C++/snippets/cuda/cudasync.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/C++/snippets/cuda/cudamalm.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/C++/snippets/cuda/cudamal.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/CUDA C++/cuda-c++.JSON-tmLanguage",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/CUDA C++/forv.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/CUDA C++/kernel.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/CUDA C++/cuda-c++.tmLanguage",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/CUDA C++/#include-(inc angle).sublime-snippet",
+		"/home/lyrahgames/tmp/gnuplot-epslatex/stdinit.tex",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/LaTeX/stdinit.sublime-snippet",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Lineare Algebra und Analytische Geometrie/I/Übungen/Übung 06/solution.tex",
+		"/home/lyrahgames/tmp/gnuplot-epslatex/diagramm.gnuplot-config",
+		"/home/lyrahgames/tmp/gnuplot-epslatex/diagramm.gnuplot-data",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/C++ Snippets/classes/struct.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/CUDA C++/#ifndef-#define-#endif.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/C++/snippets/cuda/__syncthreads().sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/C++/C++.tmLanguage",
+		"/home/lyrahgames/tmp/gnuplot-epslatex/test2.cu",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/C++ Snippets/classes/class_template.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/C++ Snippets/classes/class.sublime-snippet",
+		"/home/lyrahgames/tmp/gnuplot-epslatex/diagramm4.tex",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/LaTeX/math/Beweis.sublime-snippet",
+		"/home/lyrahgames/tmp/gnuplot-epslatex/new.tex",
+		"/etc/texmf/texmf.cnf",
+		"/home/lyrahgames/tmp/gnuplot-epslatex/diagramm.eps",
+		"/home/lyrahgames/tmp/gnuplot-epslatex/diagramm2.tex",
+		"/home/lyrahgames/tmp/gnuplot-epslatex/diagramm.tex",
+		"/home/lyrahgames/tmp/gnuplot-epslatex/diagramm",
+		"/home/lyrahgames/tmp/gnuplot-test/main.tex",
+		"/home/lyrahgames/tmp/gnuplot-test/main.cpp",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/LaTeXTools.sublime-settings",
+		"/home/lyrahgames/tmp/gnuplot-test/gnuplot-test.sublime-project",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/LaTeXTools/LaTeX.sublime-build.OLD",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/LaTeXTools/LaTeX.sublime-build",
+		"/home/lyrahgames/tmp/gnuplot-test/gnuplot.gnuplot-config",
+		"/home/lyrahgames/tmp/gnuplot-test/main.pdf",
+		"/home/lyrahgames/tmp/gnuplot-test/main.aux",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/gnuplot/gnuplot.JSON-tmLanguage",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/gnuplot/gnuplot.sublime-build",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/C++/C++.sublime-build",
+		"/home/lyrahgames/tmp/gnuplot-test/gnuplot.conf",
+		"/home/lyrahgames/cloud/Dropbox/tools/sublime-text/sublime-text-2.0.2/User/gnuplot/gnuplot.sublime-build",
+		"/home/lyrahgames/tmp/gnuplot-test/gnuplot-test.tex",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/LaTeXTools/README.markdown",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Analysis/I/Übung 03/solution.tex",
+		"/home/lyrahgames/tmp/gnuplot-test.tex",
+		"/media/truecrypt1/videos/Filme/Asterix & Obelix/Asterix 1/VIDEO_TS/VIDEO_TS.IFO",
+		"/home/lyrahgames/tmp/cuda-test/func.h",
+		"/home/lyrahgames/tmp/cuda-test/func.cpp",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-6.0_Samples/0_Simple/clock/clock.cu",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-6.0_Samples/0_Simple/vectorAdd/vectorAdd.cu",
+		"/usr/local/cuda-6.0/README",
+		"/home/lyrahgames/.bashrc",
+		"/home/lyrahgames/tools/geogebra/geogebra-4.4.24.0/readme.txt",
+		"/home/lyrahgames/tools/gnuplot/gnuplot-4.6.5/INSTALL",
+		"/home/lyrahgames/tools/scidavis/scidavis-1.D5/README",
+		"/home/lyrahgames/cloud/Dropbox/pro/vrGen/cudaBench-amb-occl/cudaBench-amb-occl.sublime-workspace",
+		"/home/lyrahgames/pro/vrGen/cudaBench/src/main.cpp",
+		"/home/lyrahgames/pro/vrGen/cudaBench/src/cudaRT.cu",
+		"/home/lyrahgames/pro/vrGen/cudaBench/src/Camera.cpp",
+		"/home/lyrahgames/tmp/downloads/Unigine_Heaven-4.0.run",
+		"/etc/X11/Xsession.options",
+		"/etc/X11/xorg.conf",
+		"/home/lyrahgames/pro/vrGen/cudaBench/pro-files/camera_path/dragon.cam",
+		"/home/lyrahgames/.bash",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-6.0_Samples/0_Simple/vectorAdd/CMakeLists.txt",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-6.0_Samples/License.txt",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-6.0_Samples/Makefile",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Package Control.sublime-settings",
+		"/home/lyrahgames/pro/stl_viewer/src/Viewer.cpp",
+		"/home/lyrahgames/pro/stl_viewer/src/Universal.h",
+		"/home/lyrahgames/pro/stl_viewer/src/Camera.h",
+		"/home/lyrahgames/pro/stl_viewer/src/Dbgout.cpp",
+		"/home/lyrahgames/tools/qt/qt5.1.1/bin/qt.conf",
+		"/home/lyrahgames/pro/stl_viewer/src/Dbgout.h",
+		"/home/lyrahgames/pro/stl_viewer/src/MathUtil.h",
+		"/home/lyrahgames/pro/stl_viewer/src/Viewer.h",
+		"/home/lyrahgames/pro/stl_viewer/src/main.cpp",
+		"/home/lyrahgames/tmp/sublime_test/Hello.txt",
+		"/home/lyrahgames/tmp/sublime_test/tmp2.txt",
+		"/home/lyrahgames/tmp/sublime_test/tmp/tmp.txt",
+		"/home/lyrahgames/tmp/sublime_test/tmp/test2.txt",
+		"/home/lyrahgames/tmp/sublime_test/tmp/test.tex",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/AdvancedNewFile/Default (Linux).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"plot",
+			"dots",
+			"meta",
+			"class",
+			"hello",
+			"figure",
+			"CUDA_SAFE_CALL",
+			"1",
+			"cudaMalloc",
+			"$HOME/tools",
+			"/home/toolsLinux",
+			"begin",
+			"htt",
+			"Linux",
+			"home"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "TA-TB-x-grob.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 1080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								419,
+								419
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/User/gnuplot/gnuplot.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "TA-TB-x-fein-p.gnuplot-data",
+					"settings":
+					{
+						"buffer_size": 325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								325,
+								325
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "TA-TB-x-fein-p.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 923,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								537,
+								537
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/User/gnuplot/gnuplot.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "TA-TB-x-fein-n.gnuplot-data",
+					"settings":
+					{
+						"buffer_size": 292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								292,
+								292
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "TA-TB-x-fein-n.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 915,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								635,
+								635
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/User/gnuplot/gnuplot.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "T-phi.gnuplot-data",
+					"settings":
+					{
+						"buffer_size": 345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								345,
+								345
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "T-phi.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 635,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								572,
+								572
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/User/gnuplot/gnuplot.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "TA-TB-x-grob.gnuplot-data",
+					"settings":
+					{
+						"buffer_size": 562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								562,
+								562
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"file": "main.tex",
+					"settings":
+					{
+						"buffer_size": 2309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2056,
+								2056
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 571.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "main2.tex",
+					"settings":
+					{
+						"buffer_size": 2156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2094,
+								2094
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 206.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 151.0
+	},
+	"output.package_dev":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main.tex",
+				"main.tex"
+			],
+			[
+				"mai",
+				"main.cpp"
+			],
+			[
+				"main",
+				"main2.cu"
+			],
+			[
+				"test",
+				"test.cu"
+			],
+			[
+				"dia",
+				"diagramm4.tex"
+			],
+			[
+				"",
+				"main.tex"
+			],
+			[
+				"ma",
+				"main.tex"
+			],
+			[
+				"gnu",
+				"gnuplot.gnuplot-config"
+			],
+			[
+				"m",
+				"main.cpp"
+			],
+			[
+				"view",
+				"src/Viewer.cpp"
+			],
+			[
+				"conf",
+				"pro-files/linux/config.pro"
+			],
+			[
+				"vie",
+				"src/Viewer.h"
+			],
+			[
+				"camer",
+				"src/Camera.h"
+			],
+			[
+				"tm",
+				"tmp/tmp.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/II/400 - Mikrowellen/406-gps.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true
+}

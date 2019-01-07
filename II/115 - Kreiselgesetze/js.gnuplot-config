@@ -1,0 +1,22 @@
+set terminal epslatex size 15cm,9cm
+set output "js.tex"
+
+set title 'Messwerte $T^2(1/s)$'
+set xl '$1/s \ [mm^{-1}]$'
+set yl '$T^2 \ [s^2]$'
+
+set key left
+set key top
+
+f(x) = a*x
+set fit errorvariables
+fit f(x) 'js.gnuplot-data' using (-1/$1):($2/($1*$1)):($3*$3):(2*$3*$4) via a
+
+set label sprintf("$ a\\pm \\Delta a = (%.1f \\pm %.1f) \\ mm \\cdot s^2 $", a, a_err) at 0.02,16
+
+plot [0:0.25] [0:22] 'js.gnuplot-data' \
+	using (-1/$1):($3*$3):($2/($1*$1)):(2*$3*$4) \
+	title 'Messwerte' \
+	with xyerrorbars pt 13 ps 0.8, \
+	\
+	f(x) title '$f(x) = ax$'

@@ -1,0 +1,102 @@
+set terminal epslatex size 15cm,25cm
+set output "2-sinus.tex"
+
+set multiplot layout 4,2 title "Sinusspannung für verschiedene Frequenzen"
+
+set key off
+
+
+set title 'Zeitverlauf $f=8kHz$'
+set xl '$t \ [s]$'
+set yl '$U \ [V]$'
+
+set xr [0:0.005]
+
+plot 'sinus-8kHz-zeitverlauf.lvm' \
+	using 1:2 \
+	with linespoints pt 13 ps 0.6 \
+	title 'Messwerte'
+
+
+set title 'Frequenzspektrum $f=8kHz$'
+set xl '$f \ [Hz]$'
+set yl '$F$'
+
+set xr [0:5000]
+
+plot 'sinus-8kHz-spektrum.lvm' \
+	using 1:2 \
+	with linespoints pt 13 ps 0.6 \
+	title 'Messwerte'
+
+
+set title 'Zeitverlauf $f=4kHz$'
+set xl '$t \ [s]$'
+set yl '$U \ [V]$'
+
+set xr [0:0.005]
+
+plot 'sinus-4kHz-zeitverlauf.lvm' \
+	using 1:2 \
+	with linespoints pt 13 ps 0.6 \
+	title 'Messwerte'
+
+
+set title 'Frequenzspektrum $f=4kHz$'
+set xl '$f \ [Hz]$'
+set yl '$F$'
+
+set xr [0:5000]
+
+plot 'sinus-4kHz-spektrum.lvm' \
+	using 1:2 \
+	with linespoints pt 13 ps 0.6 \
+	title 'Messwerte'
+
+
+set title 'Zeitverlauf $f=10kHz$'
+set xl '$t \ [s]$'
+set yl '$U \ [V]$'
+
+set xr [0:0.01]
+
+plot 'sinus-10kHz-zeitverlauf.lvm' \
+	using 1:2 \
+	with linespoints pt 13 ps 0.6 \
+	title 'Messwerte'
+
+
+set title 'Frequenzspektrum $f=10kHz$'
+set xl '$f \ [Hz]$'
+set yl '$F$'
+
+set xr [0:5000]
+
+plot 'sinus-10kHz-spektrum.lvm' \
+	using 1:2 \
+	with linespoints pt 13 ps 0.6 \
+	title 'Messwerte'
+
+
+set title 'Zeitverlauf $f=15kHz$'
+set xl '$t \ [s]$'
+set yl '$U \ [V]$'
+
+set xr [0:0.005]
+
+plot 'sinus-15kHz-zeitverlauf.lvm' \
+	using 1:2 \
+	with linespoints pt 13 ps 0.6 \
+	title 'Messwerte'
+
+
+set title 'Frequenzspektrum $f=15kHz$'
+set xl '$f \ [Hz]$'
+set yl '$F$'
+
+set xr [0:6000]
+
+plot 'sinus-15kHz-spektrum.lvm' \
+	using 1:2 \
+	with linespoints pt 13 ps 0.6 \
+	title 'Messwerte'

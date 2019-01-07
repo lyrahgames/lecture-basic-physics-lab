@@ -1,0 +1,26 @@
+set terminal epslatex size 15cm,9cm
+set output "Qvk-diagram.tex"
+
+set title 'Darstellung $\ln (p_{D_0}/p_0)$ über $1/T$ mit korrigierten Werten und $p_0 = 1 \ Torr$'
+set xl '$1/T \ [1/K]$'
+set yl '$\ln (p_D/p_0) \ [1]$'
+
+set format x '%.4f'
+set format y '%.1f'
+
+set xtics 0.0001
+
+set fit errorvariables
+f(x) = a*x +b
+fit f(x) 'pD-T-diagram.gnuplot-data' using (1/($1+273.15)):($2/(($1+273.15)*($1+273.15))):(log($12)):($13/$12) via a,b
+
+set label sprintf("$a\\pm \\Delta a = (%.0f \\pm %.0f) \\ K$", a, a_err) at 0.0031,6.5
+
+set label sprintf("$b\\pm \\Delta b = (%.2f \\pm %.2f)$", b, b_err) at 0.0031,6.3
+
+plot 'pD-T-diagram.gnuplot-data' \
+	using (1/($1+273.15)):(log($12)):($2/(($1+273.15)*($1+273.15))):($13/$12) \
+	title 'Messwerte mit Korrektur' \
+	with xyerrorbars pt 13 ps 0.8, \
+	\
+	f(x) title '$f(x) = ax+b$'

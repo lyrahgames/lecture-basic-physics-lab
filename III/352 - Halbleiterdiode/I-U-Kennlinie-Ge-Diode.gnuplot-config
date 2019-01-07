@@ -1,0 +1,20 @@
+set terminal epslatex size 15cm,9cm
+set output "I-U-Kennlinie-Ge-Diode.tex"
+
+set title '$I$-$U$-Kennlinie einer Ge-Diode'
+set xl '$U \ [V]$'
+set yl '$I \ [nA]$'
+
+set key left
+set key width -5
+
+set format x "%.1f"
+
+plot [-0.5:0.5] 'I-U-Kennlinie-Ge-Diode.gnuplot-data' \
+	using 5:11:6:12 \
+	with xyerrorbars pt 13 ps 0.8 \
+	title 'Messwerte' \
+	, \
+	'' using 5:11:(1e4) smooth acsplines \
+	title 'angenäherter Kurvenverlauf' with lines, \
+	0 title ''

@@ -1,0 +1,30 @@
+set terminal epslatex size 15cm,9cm
+set output "u-r.tex"
+
+set title 'Strahlungsintensität in Abhängigkeit der Entfernung'
+
+set xlabel '$r = x_2 - x_1 \ [mm]$'
+set ylabel '$U \ [V]$'
+
+set format x '%.0f'
+set format y '%.3f'
+
+set yr [0.2:2.0]
+set ytics 0.2
+
+set key spacing 4
+
+f(x) = a/((x-b)**2)
+fit f(x) 'u-r.gnuplot-data' using (($1 >= 300)?$1:1/0):2 via a,b
+
+set label sprintf("$a = %.2f \\ V mm^2$",a) at 680, 1.4 
+set label sprintf("$b = %.2f \\ mm$",b) at 680, 1.2
+
+set arrow from 280,0.2 to 280,1.7 nohead ls 2
+set label 'Messwerte links nicht gefittet' at 300, 1.8
+
+plot "u-r.gnuplot-data" \
+	using 1:2:3:4 \
+	title 'Messwerte' \
+	with xyerrorbars pt 13 ps 0.8, \
+	f(x) title '$f(r) = \dfrac{a}{(r-b)^2}$'

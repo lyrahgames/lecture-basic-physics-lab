@@ -1,0 +1,44 @@
+set terminal epslatex size 16cm,20cm
+set output "diagram.tex"
+
+set title 'Isothermennetz für Schwefelhexafluorid'
+set xl '$V \ [cm^3]$'
+set yl '$p \ [bar]$'
+
+set format x '%.2f'
+set format y '%.2f'
+
+f(x) = (0.001953*8.314*(273.15+45.5))*10/x
+
+plot [0.2:1.5] [22:45] 'isotherm.gnuplot-data' every :::0::0 \
+	using 3:5:4:6 \
+	title '$\vartheta \pm \Delta\vartheta = (25.9 \pm 0.1) ^\circ C$' with points, \
+	\
+	'' every :::0::0 using 3:5:(10000) smooth acsplines\
+	title '' with lines, \
+	\
+	'' every :::1::1 using 3:5:4:6 \
+	title '$\vartheta \pm \Delta\vartheta = (40.2 \pm 0.1) ^\circ C$' with points pt 2, \
+	\
+	'' every :::1::1 using 3:5:(10000) smooth acsplines\
+	title '' with lines, \
+	\
+	'' every :::2::2 using 3:5:4:6 \
+	title '$\vartheta \pm \Delta\vartheta = (43.9 \pm 0.1) ^\circ C$' with points pt 7, \
+	\
+	'' every :::2::2 using 3:5:(10000) smooth acsplines\
+	title '' with lines, \
+	\
+	'' every :::3::3 using 3:5:4:6 \
+	title '$\vartheta \pm \Delta\vartheta = (45.5 \pm 0.1) ^\circ C$' with points pt 13, \
+	\
+	'' every :::3::3 using 3:5:(10000) smooth acsplines\
+	title '' with lines, \
+	\
+	'' every :::4::4 using 3:5:4:6 \
+	title '$\vartheta \pm \Delta\vartheta = (50.2 \pm 0.1) ^\circ C$' with points pt 5, \
+	\
+	'' every :::4::4 using 3:5:(10000) smooth acsplines\
+	title '' with lines, \
+	\
+	f(x) title 'Isotherme für ideales Gas bei $\vartheta = 45.5 ^\circ C$'

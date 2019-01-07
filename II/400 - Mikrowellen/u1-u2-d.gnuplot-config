@@ -1,0 +1,23 @@
+set terminal epslatex size 15cm,9cm
+set output "u1-u2-d.tex"
+
+set title 'Messung des Tunneleffekts und der Totalreflexion'
+
+set xlabel '$d \ [mm]$'
+set ylabel '$U \ [V]$'
+
+set format x "%.0f"
+set format y "%.3f"
+
+set yr [0:0.45]
+
+#set logscale x
+
+plot "u1-u2-d.gnuplot-data" \
+	using 1:2:4:5 \
+	title 'Totalreflexion' \
+	with xyerrorbars pt 13 ps 0.8, \
+	"u1-u2-d.gnuplot-data" \
+	using 1:3:4:5 \
+	title 'Tunneleffekt' \
+	with xyerrorbars pt 16 ps 0.8

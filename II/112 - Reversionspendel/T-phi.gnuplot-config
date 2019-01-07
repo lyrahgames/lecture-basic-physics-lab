@@ -1,0 +1,32 @@
+set terminal epslatex size 15cm,9cm
+set output "T-phi.tex"
+
+set title 'Messung $T(\varphi_0)$'
+set xl '$\varphi^2_0 \ [1]$'
+set yl '$T \ [ms]$'
+
+set xr [0:0.01]
+set yr [1979.0:1981.2]
+
+set mxtics 5
+set mytics 5
+
+set format x '%.3f'
+set format y '%.1f'
+
+set key left
+set key top
+
+f(x) = a*x +b
+fit f(x) 'T-phi.gnuplot-data' using ($3)**2:7 via a,b 
+
+plot 'T-phi.gnuplot-data' \
+	using ($3)**2:7:((($3)**2)*($4/$3)*2):8 \
+	title 'Messwerte' \
+	with xyerrorbars pt 13 ps 0.8 \
+	, \
+	f(x) title '$f(x) = ax+b$'
+
+
+#a               = 194.151          +/- 17.88        (9.208%)
+#b               = 1979.27          +/- 0.08297      (0.004192%)

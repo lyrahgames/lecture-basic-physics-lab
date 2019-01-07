@@ -1,0 +1,916 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"int",
+				"int_max"
+			],
+			[
+				"HISTOW_M",
+				"HISTOW_INT_MAX_DEFAULT"
+			],
+			[
+				"HIST",
+				"HISTOW_INT_MIN_DEFAULT"
+			],
+			[
+				"view",
+				"view_max"
+			],
+			[
+				"seg",
+				"seg_count"
+			],
+			[
+				"set",
+				"setBGColor"
+			],
+			[
+				"glcle",
+				"glClearColor"
+			],
+			[
+				"se",
+				"seg_data"
+			],
+			[
+				"b",
+				"blue"
+			],
+			[
+				"bg",
+				"bg_color"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"H",
+				"HISTOW_INT_MIN_DEFAULT"
+			],
+			[
+				"struc",
+				"struct	struct {}"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"pi",
+				"pixel_data"
+			],
+			[
+				"int_view_",
+				"int_view_max"
+			],
+			[
+				"HISTOW",
+				"HISTOW_INT_MIN_DEFAULT"
+			],
+			[
+				"get",
+				"getColor"
+			],
+			[
+				"in",
+				"int_max"
+			],
+			[
+				"pixel",
+				"pixel_col"
+			],
+			[
+				"int_v",
+				"int_view_min"
+			],
+			[
+				"main",
+				"main	main()"
+			],
+			[
+				"p",
+				"pow2_inline"
+			],
+			[
+				"array",
+				"array_memcpy"
+			],
+			[
+				"arr",
+				"array_memset"
+			],
+			[
+				"for",
+				"for_unroll"
+			],
+			[
+				"fo",
+				"for_if"
+			],
+			[
+				"lis",
+				"list_dyn"
+			],
+			[
+				"list",
+				"list_stat_const"
+			],
+			[
+				"clo",
+				"clock"
+			],
+			[
+				"clock",
+				"clock_t"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"ma",
+				"matrix_127"
+			],
+			[
+				"mat",
+				"matrix_128"
+			],
+			[
+				"p_",
+				"p_abcd_inc"
+			],
+			[
+				"li",
+				"list"
+			],
+			[
+				"cloc",
+				"clock_end"
+			],
+			[
+				"name",
+				"namespace	namespace {}"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "1-sinus.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 455,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "1-noise.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 442,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "2-sinus.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 1685,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "3-sinus-noise.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 1868,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "1-dreieck.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 463,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "1-rechteck.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 467,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main2.tex",
+			"settings":
+			{
+				"buffer_size": 2145,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main3.tex",
+			"settings":
+			{
+				"buffer_size": 2151,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.tex",
+			"settings":
+			{
+				"buffer_size": 2309,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 369.0,
+		"selected_items":
+		[
+			[
+				"togg",
+				"View: Toggle Side Bar"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"toggle",
+				"View: Toggle Side Bar"
+			],
+			[
+				"ss",
+				"Set Syntax: C++"
+			],
+			[
+				"sett",
+				"Preferences: Settings - User"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"close ",
+				"Project: Close"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"dic",
+				"Dictionaries: Set Language"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"print",
+				"Print Entire File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"settin",
+				"Preferences: Settings - Default"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"proje",
+				"Project: Close"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 584.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-noise-1-zeitverlauf.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-noise-2-spektrum.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-noise-2-zeitverlauf.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-noise-3-spektrum.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-noise-3-zeitverlauf.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-noise-4-spektrum.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-noise-4-zeitverlauf.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/noise-2-spektrum.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/noise-2-zeitverlauf.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-2-spektrum.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-2-zeitverlauf.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-noise-1-spektrum.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/noise-spektrum.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-20kHz-spektrum.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-4kHz-zeitverlauf.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-5kHz-spektrum.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-5kHz-zeitverlauf.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-8kHz-spektrum.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-8kHz-zeitverlauf.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-10kHz-spektrum.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-10kHz-zeitverlauf.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-15kHz-spektrum.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-15kHz-zeitverlauf.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-1kHz-spektrum.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-1kHz-zeitverlauf.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-20kHz-zeitverlauf.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-4kHz-spektrum.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/noise-zeitverlauf.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/rechteck-zeitverlauf.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/rechteck-spektrum.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-zeitverlauf.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/sinus-spektrum.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/dreieck-zeitverlauf.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/dreieck-spektrum.lvm",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/355 - LabView/versuch1.gnuplot-config",
+		"/home/lyrahgames/cloud/Dropbox/pro/qt-project/histoW/histoW.sublime-project",
+		"/home/lyrahgames/pro/cpu-time-measurement/test.s",
+		"/home/lyrahgames/pro/cpu-time-measurement/prg",
+		"/home/lyrahgames/pro/cpu-time-measurement/test-pp.cpp",
+		"/media/Data/home/cloud/Dropbox/media/e-books/Optimization Manuals/C++ Examples/AlignedArray.cpp",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/vec3f.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/btree.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/pref.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/morton.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/morton.cpp",
+		"/home/lyrahgames/cloud/Dropbox/pro/ray tracer/program/struct/vec3f.cpp",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-6.0_Samples/0_Simple/vectorAdd/vectorAdd.cu",
+		"/home/lyrahgames/pro/vrGen/cudaBench/src/main.cpp",
+		"/home/lyrahgames/pro/vrGen/cudaBench/src/cudaRT.cu",
+		"/home/lyrahgames/pro/vrGen/cudaBench/src/Camera.cpp",
+		"/home/lyrahgames/tmp/downloads/Unigine_Heaven-4.0.run",
+		"/etc/X11/Xsession.options",
+		"/etc/X11/xorg.conf",
+		"/home/lyrahgames/pro/vrGen/cudaBench/pro-files/camera_path/dragon.cam",
+		"/home/lyrahgames/.bashrc",
+		"/home/lyrahgames/.bash",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-6.0_Samples/0_Simple/vectorAdd/CMakeLists.txt",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-6.0_Samples/License.txt",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-6.0_Samples/Makefile",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Package Control.sublime-settings",
+		"/home/lyrahgames/pro/stl_viewer/src/Viewer.cpp",
+		"/home/lyrahgames/pro/stl_viewer/src/Universal.h",
+		"/home/lyrahgames/pro/stl_viewer/src/Camera.h",
+		"/home/lyrahgames/pro/stl_viewer/src/Dbgout.cpp",
+		"/home/lyrahgames/tools/qt/qt5.1.1/bin/qt.conf",
+		"/home/lyrahgames/pro/stl_viewer/src/Dbgout.h",
+		"/home/lyrahgames/pro/stl_viewer/src/MathUtil.h",
+		"/home/lyrahgames/pro/stl_viewer/src/Viewer.h",
+		"/home/lyrahgames/pro/stl_viewer/src/main.cpp",
+		"/home/lyrahgames/tmp/sublime_test/Hello.txt",
+		"/home/lyrahgames/tmp/sublime_test/tmp2.txt",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/lyrahgames/tmp/sublime_test/tmp/tmp.txt",
+		"/home/lyrahgames/tmp/sublime_test/tmp/test2.txt",
+		"/home/lyrahgames/tmp/sublime_test/tmp/test.tex",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
+		"/home/lyrahgames/tmp/sublime_test/tmp/main.cpp",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/SublimePrint.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/SublimePrint/SublimePrint.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/SublimePrint/README.md",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/lyrahgames/tmp/sublime_test/test.txt",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/C++ Snippets/README.md",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/openinbrowser.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/AdvancedNewFile/README.md",
+		"/home/lyrahgames/tmp/sublime_test/test.sublime-workspace",
+		"/home/lyrahgames/tmp/sublime_test/test.sublime-project",
+		"/home/lyrahgames/pro/stl_viewer/pro-files/linux/config.pro",
+		"/home/lyrahgames/tools/qt/qt5.1/mkspecs/features/spec_pre.prf",
+		"/home/lyrahgames/.profile",
+		"/home/lyrahgames/tools/compiler/intel_cce_14/composer_xe_2013_sp1.0.080/bin/compilervars.sh",
+		"/home/lyrahgames/tools/compiler/intel_cce_14/bin/compilervars.sh"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1000",
+			"0.1",
+			"0.005",
+			"0.25",
+			",",
+			"sinus",
+			",",
+			"sinus",
+			",",
+			"red",
+			"green",
+			"gle",
+			"unsigned",
+			"qt-5.2.1",
+			"$HOME/tools",
+			"/home/toolsLinux",
+			"begin",
+			"htt",
+			"Linux",
+			"home"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".",
+			"noise",
+			"rechteck",
+			".",
+			"dreieck",
+			"."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "1-sinus.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								455,
+								455
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/gnuplot/gnuplot.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "1-noise.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 442,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								442,
+								442
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/User/gnuplot/gnuplot.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "2-sinus.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 1685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/User/gnuplot/gnuplot.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "3-sinus-noise.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 1868,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1485,
+								1485
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/User/gnuplot/gnuplot.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1584.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "1-dreieck.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/User/gnuplot/gnuplot.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "1-rechteck.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								99
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/User/gnuplot/gnuplot.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "main2.tex",
+					"settings":
+					{
+						"buffer_size": 2145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1983,
+								1983
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 188.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "main3.tex",
+					"settings":
+					{
+						"buffer_size": 2151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2118,
+								2118
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 26.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "main.tex",
+					"settings":
+					{
+						"buffer_size": 2309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2091,
+								2091
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 840.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 118.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"nois",
+				"noise-spektrum.lvm"
+			],
+			[
+				"noi",
+				"noise-zeitverlauf.lvm"
+			],
+			[
+				"rec",
+				"rechteck-spektrum.lvm"
+			],
+			[
+				"re",
+				"rechteck-zeitverlauf.lvm"
+			],
+			[
+				"dre",
+				"dreieck-spektrum.lvm"
+			],
+			[
+				"sinus",
+				"sinus-spektrum.lvm"
+			],
+			[
+				"hi",
+				"src/histo-w.cpp"
+			],
+			[
+				"co",
+				"pro-files/linux/config.pro"
+			],
+			[
+				"m",
+				"src/main.cpp"
+			],
+			[
+				"cuda",
+				"src/cudaRT.cu"
+			],
+			[
+				"mai",
+				"src/main.cpp"
+			],
+			[
+				"tm",
+				"tmp/tmp.txt"
+			],
+			[
+				"",
+				"Hello.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/lyrahgames/cloud/Dropbox/pro/qt-project/histoW/histoW.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,42 @@
+set terminal epslatex size 15cm,9cm
+set output "TA-TB-x-grob.tex"
+
+set title 'grobe Bestimmung von $T_A(x)$ und $T_B(x)$'
+set xl '$x \ [mm]$'
+set yl '$T \ [ms]$'
+
+set format x '%.0f'
+set format y '%.0f'
+
+set mxtics 5
+
+set key center 
+set key top
+
+f(x) = a*x**2 + b*x + c
+fit f(x) 'TA-TB-x-grob.gnuplot-data' using 1:6:(20) via a,b,c
+
+g(x) = d*x**2 + e*x + f
+fit g(x) 'TA-TB-x-grob.gnuplot-data' using 1:7:(20) via d,e,f
+
+plot 'TA-TB-x-grob.gnuplot-data' \
+	using 1:6:2:8 \
+	title 'Messwerte $T_A(x)$' \
+	with xyerrorbars pt 13 ps 0.8 \
+	, '' \
+	using 1:7:2:8 \
+	title 'Messwerte $T_B(x)$' \
+	with xyerrorbars pt 15 ps 0.8 \
+	, \
+	f(x) title '$f(x) = ax^2+bx+c$' \
+	, \
+	g(x) title '$g(x) = dx^2+ex+f$'
+
+
+#a               = 0.000254118      +/- 5.463e-06    (2.15%)
+#b               = 0.00056483       +/- 0.0006572    (116.4%)
+#c               = 1973.06          +/- 0.1572       (0.007967%)
+
+#d               = 0.00116409       +/- 4.992e-05    (4.288%)
+#e               = 0.0136759        +/- 0.006006     (43.92%)
+#f               = 1950.03          +/- 1.437        (0.07367%)

@@ -1,0 +1,19 @@
+set terminal epslatex size 15cm,9cm
+set output "u-alpha.tex"
+
+set title 'Strahlungsintensität in Abhängigkeit des Winkels'
+
+set xlabel '$\alpha \ [^\circ]$'
+set ylabel '$U \ [V]$'
+
+#set yr [0.0:8.0]
+
+set ytics 0.2
+
+set format x '%.1f'
+set format y '%.3f'
+
+plot "u-alpha.gnuplot-data" \
+	using 1:2:3:4 \
+	title 'Messwerte' \
+	with xyerrorbars pt 13 ps 0.8

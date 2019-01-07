@@ -1,0 +1,32 @@
+set terminal epslatex size 15cm, 9cm
+set output "erzw-schw2.tex"
+
+set title 'Phasenverschiebung der Schwingkreisspannung'
+
+set xlabel '$f \ [kHz]$'
+set ylabel '$\Delta \varphi \ [1]$'
+
+#set xr [0.0:10.0]
+#set yr [0.0:220.0]
+
+#set xtics 0, 1, 10
+#set mxtics 4
+
+set format x '%.2f'
+set format y '%.1f'
+
+set arrow from 11.75,-1.5 to 11.75,0
+set label '$f_0$' at 11.75, 0.25
+
+f(x) = pi/4
+g(x) = -pi/4
+
+plot "erzw-schw.gnuplot-data" \
+	using 1:7:2:8 \
+	title 'Messwerte' \
+	with xyerrorbars pt 13 ps 0.8, \
+	\
+	f(x) \
+	title '$\pi /2$', \
+	g(x) \
+	title '$-\pi /2$'

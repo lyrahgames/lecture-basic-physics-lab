@@ -1,0 +1,15 @@
+set terminal epslatex size 15cm,9cm
+set output "frequenzen.tex"
+
+set title "Frequenzstrahl für $x=0cm$"
+set xl '$\omega \ [s^{-1}]$'
+
+#set logscale x
+
+set xr [0:6]
+set yr [0.9:1.01]
+
+set ytics 10
+
+plot 'frequenzen.gnuplot-data' using 1:2 with impulses \
+	title 'Frequenzen'

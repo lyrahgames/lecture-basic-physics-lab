@@ -1,0 +1,21 @@
+set terminal epslatex size 15cm,9cm
+set output "D-S-Widerstand.tex"
+
+set title 'Drain-Source-Widerstand des n-Kanal JFET: 2SK369'
+set xl '$U_{GS} \ [mV]$'
+set yl '$R_{DS} \ [\Omega]$'
+
+set format x '$10^{%T}$'
+set format y '$10^{%T}$'
+
+set logscale x
+set logscale y
+
+set yr [10:3e7]
+
+set key left
+
+plot 'D-S-Widerstand.gnuplot-data' \
+	using (-$1):7:2:8 \
+	with xyerrorbars pt 13 ps 0.8 \
+	title 'Messwerte'

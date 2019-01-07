@@ -1,0 +1,26 @@
+set terminal epslatex size 15cm,9cm
+set output "frequenzverhalten2.tex"
+
+set title 'Frequenzverhalten des AC-Millivoltmeters für $U(t) = 1V \cdot \sin (\omega t)$'
+set xl '$f \ [Hz]$'
+set yl '$U \ [V]$'
+
+set format x '10^{%T}'
+set format y '%.2f'
+
+set logscale x
+
+set key reverse
+set key right top
+set key width -5
+set key height 1
+set key Left
+set key box
+
+plot 'frequenzverhalten.gnuplot-data' using 1:5 \
+	with points pt 12 \
+	title 'AC-Millivoltmeter GVT-427B' \
+	, \
+	'' using 1:7 \
+	with points pt 13 \
+	title 'Oszilloskop HM1508-2'

@@ -1,0 +1,1680 @@
+
+
+*******************************************************************************
+Thu Jun  5 21:45:14 2014
+
+
+FIT:    data read from 'steinsatz-s-T.gnuplot-data' using (($1)**2):(($3)**2):(2*$1*$2):(2*$3*$4)
+        format = x:y:z:s
+        y range restricted to [2.00000 : 16.0000]
+        #datapoints = 6
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.92738e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 40113
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 260.623
+rel. change during last iteration : -2.9991e-09
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 8.0719
+variance of residuals (reduced chisquare) = WSSR/ndf   : 65.1556
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000713674      +/- 8.215e-05    (11.51%)
+b               = 2.65824          +/- 0.511        (19.22%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.707  1.000 
+
+
+*******************************************************************************
+Thu Jun  5 21:45:47 2014
+
+
+FIT:    data read from 'steinsatz-s-T.gnuplot-data' using (($1)**2):(($3)**2):(2*$1*$2):(2*$3*$4)
+        format = x:y:z:s
+        y range restricted to [2.00000 : 16.0000]
+        #datapoints = 6
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.92738e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 40113
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 260.623
+rel. change during last iteration : -2.9991e-09
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 8.0719
+variance of residuals (reduced chisquare) = WSSR/ndf   : 65.1556
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000713674      +/- 8.215e-05    (11.51%)
+b               = 2.65824          +/- 0.511        (19.22%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.707  1.000 
+
+
+*******************************************************************************
+Thu Jun  5 21:46:02 2014
+
+
+FIT:    data read from 'steinsatz-s-T.gnuplot-data' using (($1)**2):(($3)**2)
+        format = x:z
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.66729e+08       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 5533.75
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 2.51557
+rel. change during last iteration : -2.40306e-07
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793027
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.628893
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000633292      +/- 6.526e-05    (10.31%)
+b               = 4.78139          +/- 0.5107       (10.68%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.773  1.000 
+
+
+*******************************************************************************
+Thu Jun  5 21:46:24 2014
+
+
+FIT:    data read from 'steinsatz-s-T.gnuplot-data' using (($1)**2):(($3)**2)
+        format = x:z
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.66729e+08       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 5533.75
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 2.51557
+rel. change during last iteration : -2.40306e-07
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.793027
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.628893
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000633292      +/- 6.526e-05    (10.31%)
+b               = 4.78139          +/- 0.5107       (10.68%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.773  1.000 
+
+
+*******************************************************************************
+Fri Jun  6 11:46:06 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:5
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2595.21           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.32059
+rel. change during last iteration : -4.94598e-06
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.692867
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.480065
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 1.34918          +/- 0.004753     (0.3523%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 11:47:33 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 11:48:28 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 11:48:35 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 11:48:57 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 11:49:10 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 11:49:19 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 11:49:30 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 11:49:38 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 11:50:35 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 11:50:58 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 11:52:01 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 11:52:15 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 11:52:44 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 12:04:14 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 12:04:48 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 12:05:00 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 12:05:05 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 12:06:33 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 12:06:56 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 12:07:36 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 12:08:07 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 12:08:48 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 12:09:00 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 12:09:21 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 12:09:57 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 12:10:05 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 12:12:05 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7:(2):(8)
+        format = x:y:z:s
+        y range restricted to [0.00000 : 2.20000]
+        #datapoints = 10
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 307.656           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 5.76222
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.154412
+rel. change during last iteration : -1.61775e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.130984
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0171569
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0376471        +/- 0.007188     (19.09%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 12:19:50 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7:2:8
+        format = x:y:z:s
+        y range restricted to [0.00000 : 2.20000]
+        #datapoints = 10
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.38954e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1202.84
+
+initial set of free parameter values
+
+a               = 1
+
+The maximum lambda = 1.000000e+20 was exceeded. Fit stopped.
+final sum of squares of residuals : 2.54668e-29
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.68216e-15
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.82965e-30
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.02             +/- 4.422e-19    (2.211e-15%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 12:20:13 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:2:7:8
+        format = x:y:z:s
+        y range restricted to [0.00000 : 2.20000]
+        #datapoints = 10
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.37929e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1202.84
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 1.86103
+rel. change during last iteration : -6.11192e-12
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.454732
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.206781
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0236195        +/- 0.0001195    (0.5061%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 12:20:37 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:7
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20261.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 46.0977
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00133576
+rel. change during last iteration : -1.25103e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0121827
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000148418
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0235459        +/- 8.357e-05    (0.3549%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 12:20:56 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:2:7:8
+        format = x:y:z:s
+        y range restricted to [0.00000 : 2.20000]
+        #datapoints = 10
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.37929e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1202.84
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 1.86103
+rel. change during last iteration : -6.11192e-12
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.454732
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.206781
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0236195        +/- 0.0001195    (0.5061%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 12:21:14 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:2:7:8
+        format = x:y:z:s
+        y range restricted to [0.00000 : 2.20000]
+        #datapoints = 10
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.37929e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1202.84
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 1.86103
+rel. change during last iteration : -6.11192e-12
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.454732
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.206781
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0236195        +/- 0.0001195    (0.5061%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 12:21:44 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:2:7:8
+        format = x:y:z:s
+        y range restricted to [0.00000 : 2.20000]
+        #datapoints = 10
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.37929e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1202.84
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 1.86103
+rel. change during last iteration : -6.11192e-12
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.454732
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.206781
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0236195        +/- 0.0001195    (0.5061%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Jun  6 12:30:47 2014
+
+
+FIT:    data read from 'dmoment-phi-m.gnuplot-data' using 1:2:7:8
+        format = x:y:z:s
+        y range restricted to [0.00000 : 2.20000]
+        #datapoints = 10
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.37929e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1202.84
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 1.86103
+rel. change during last iteration : -6.11192e-12
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.454732
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.206781
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0236195        +/- 0.0001195    (0.5061%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 

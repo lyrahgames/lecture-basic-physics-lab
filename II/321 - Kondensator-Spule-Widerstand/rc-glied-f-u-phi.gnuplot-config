@@ -1,0 +1,17 @@
+set terminal epslatex size 15cm, 9cm
+set output "diagramm.tex"
+
+set title 'Spannungsamplitude RC-Glied'
+
+set xlabel '$f \ [kHz]$'
+set ylabel '$U_a \ [V]$'
+
+set format x '%.2f'
+set format y '%.2f'
+
+set logscale x
+
+plot "rc-glied-f-u-phi.gnuplot-data" \
+	using 1:2:6 \
+	title 'Messwerte' \
+	with yerrorbars pt 13 ps 0.8

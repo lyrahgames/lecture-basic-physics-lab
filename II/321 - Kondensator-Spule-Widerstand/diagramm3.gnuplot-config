@@ -1,0 +1,19 @@
+set terminal epslatex size 15cm, 9cm
+set output "diagramm3.tex"
+
+set title 'Phasenverschiebung RC-Glied'
+
+set xlabel '$f \ [kHz]$'
+set ylabel '$\Delta\varphi \ [1]$'
+
+#set yr [0.0:8.0]
+
+set format x '%.2f'
+set format y '%.2f'
+
+set logscale x
+
+plot "rc-glied-f-u-phi.gnuplot-data" \
+	using 1:10:11 \
+	title 'Messwerte' \
+	with yerrorbars pt 13 ps 0.8

@@ -1,0 +1,13 @@
+set terminal epslatex size 15cm,9cm
+set output "volumen.tex"
+
+set title "Resonatorfrequenz in Abhängigkeit des Volumens"
+set xl "$V \ [cm^3]$"
+set yl "$f \ [Hz]$"
+
+set logscale xy
+
+plot 'volumen.gnuplot-data' \
+	using 1:2:3 \
+	with yerrorbars pt 13 ps 0.8 \
+	title 'Messwerte'

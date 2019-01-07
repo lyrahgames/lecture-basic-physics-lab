@@ -1,0 +1,26 @@
+set terminal epslatex size 15cm, 9cm
+set output "praezession3.tex"
+
+set title '$T_p/f_K$ über $1/s$'
+set yl '$T_p/f_K \ [s^2]$'
+set xl '$1/s \ [mm^{-1}]$'
+
+set format x '%.2f'
+set format y '%.0f'
+
+set key top
+set key left
+
+f(x) = a*x
+set fit errorvariables
+fit f(x) 'praezession.gnuplot-data' \
+	using (1/$1):($2/($1*$1)):($7/$5):(($7/$5)*(($8/$7)+($6/$5))) every :::0::4 via a
+
+set label sprintf("$ a \\pm \\Delta a = (%.2f \\pm %.2f) \\ mm \\cdot s^2$", a, a_err) at -0.13,10
+
+plot 'praezession.gnuplot-data' \
+	using (1/$1):($7 / $5):($2/($1*$1)):(($7/$5)*(($8/$7)+($6/$5))) every :::0::4 \
+	title 'Messwerte' \
+	with xyerrorbars pt 13 ps 0.8, \
+	\
+	f(x) title '$f(x) = ax$'

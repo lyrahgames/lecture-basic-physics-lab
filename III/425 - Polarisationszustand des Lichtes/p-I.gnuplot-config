@@ -1,0 +1,21 @@
+set terminal epslatex size 15cm,9cm
+set output "p-I.tex"
+
+set title 'Intensität in Abhängigkeit des Analysatorwinkels'
+set xl '$\varphi \ [\circ]$'
+set yl '$I \ [nA]$'
+
+set xr [0:360]
+set yr [0:180]
+
+set key right
+
+f(x) = a*(cos((x-c)*pi/180))**2
+fit f(x) 'p-I.gnuplot-data' using 1:3 via a,c
+
+plot 'p-I.gnuplot-data' \
+	using 1:3:2:4 \
+	with xyerrorbars pt 13 ps 0.8 \
+	title 'Messwerte', \
+	\
+	f(x) title '$f(x) = a \cdot \cos^2 (x-c) $'

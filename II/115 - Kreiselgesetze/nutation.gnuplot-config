@@ -1,0 +1,25 @@
+set terminal epslatex size 15cm,9cm
+set output "nutation.tex"
+
+set title 'Nutation in Abhängigkeit der Kreiselfrequenz $f_N(f_K)$'
+set xl '$f_K \ [Hz]$'
+set yl '$f_N \ [Hz]$'
+
+set format x '%.1f'
+set format y '%.1f'
+
+set key top
+set key left
+
+f(x) = a*x
+set fit errorvariables
+fit f(x) 'nutation.gnuplot-data' using 5:6:3:4 via a
+
+set label sprintf("$a\\pm \\Delta a = %.3f \\pm %.3f $", a, a_err) at 0.25,5.0
+
+plot [0:4.5] [0:6.5] 'nutation.gnuplot-data' \
+	using 5:3:6:4 \
+	title 'Messwerte' \
+	with xyerrorbars pt 13 ps 0.8, \
+	\
+	f(x) title '$f(x) = ax$'

@@ -1,0 +1,21 @@
+set terminal epslatex size 15cm,9cm
+set output "p-N.tex"
+
+set title 'Polarisationsgrad in Abhängigkeit der Anzahl der Glasplatten'
+set xl '$N$'
+set yl '$p$'
+
+set xr [0:18]
+set yr [-0.1:1.1]
+
+set key left
+
+g(x) = 1 - ((1.5157**2 - 1)/(1.5157**2 + 1))**2
+f(x) = (1 - g(x)**(2*x))/(1 + g(x)**(2*x))
+
+plot 'p-N.gnuplot-data' \
+	using 1:6:7 \
+	with yerrorbars pt 13 ps 0.8 \
+	title 'Messwerte', \
+	\
+	f(x) title 'Theoriewerte'
